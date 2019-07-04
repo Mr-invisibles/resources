@@ -1,0 +1,322 @@
+<item>
+<name>Mporno.tv - most recent</name>
+<link>$doregex[makelist]</link>
+<thumbnail></thumbnail>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+        <title>[makelist.param3]</title>
+        <link>$doregex[playurl]</link>
+        <thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+    from resources.lib.modules import cache,client,workers
+    import re,urllib,xbmc,xbmcgui
+
+    class page:
+        def run(self, r):
+            threads = [] ; self.r = [] ; r = [(r.index(i)+1, i) for i in r]
+            for i in r: threads.append(workers.Thread(self.request, i))
+            [i.start() for i in threads] ; [i.join() for i in threads]
+            return ''.join([str(i[1]) for i in sorted(self.r, key=lambda x: x[0])])
+        def request(self, i):
+            self.r += [(i[0], client.request(i[1]))]
+    def unescape(s):
+        return re.sub('&#(\d+);', '', s)         
+
+    url = 'http://mporno.tv/most-recent/page'
+    u = []
+    for i in range(1, 12): u += [url + str(i) + '.html']
+    u = cache.get(page().run, 24, u)
+    e = re.findall('(?s)class="bg">(?:[^f]*)f="([^"]*)(?:[^_]*)_image" src="([^"]*)" alt="([^"]*)', u)
+    e = [(i[0], i[1], unescape(i[2])) for i in e]  
+    return e
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>playurl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+    from resources.lib.modules import client
+    import re
+    url = '[makelist.param1]'
+    from resources.lib.modules import control
+    adultresolver = control.cdnImport('http://localhost/xmls/3.xml', 'adultresolver')
+    adultresolver = adultresolver.streamer()
+    url = adultresolver.resolve(url)
+    return url
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+<item>
+<name>Mporno.tv - Top Rated</name>
+<link>$doregex[makelist]</link>
+<thumbnail></thumbnail>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+        <title>[makelist.param3]</title>
+        <link>$doregex[playurl]</link>
+        <thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+    from resources.lib.modules import cache,client,workers
+    import re,urllib,xbmc,xbmcgui
+
+    class page:
+        def run(self, r):
+            threads = [] ; self.r = [] ; r = [(r.index(i)+1, i) for i in r]
+            for i in r: threads.append(workers.Thread(self.request, i))
+            [i.start() for i in threads] ; [i.join() for i in threads]
+            return ''.join([str(i[1]) for i in sorted(self.r, key=lambda x: x[0])])
+        def request(self, i):
+            self.r += [(i[0], client.request(i[1]))]
+    def unescape(s):
+        return re.sub('&#(\d+);', '', s)         
+
+    url = 'http://mporno.tv/top-rated//page'
+    u = []
+    for i in range(1, 12): u += [url + str(i) + '.html']
+    u = cache.get(page().run, 24, u)
+    e = re.findall('(?s)class="bg">(?:[^f]*)f="([^"]*)(?:[^_]*)_image" src="([^"]*)" alt="([^"]*)', u)
+    e = [(i[0], i[1], unescape(i[2])) for i in e]  
+    return e
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>playurl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+    from resources.lib.modules import client
+    import re
+    url = '[makelist.param1]'
+    from resources.lib.modules import control
+    adultresolver = control.cdnImport('http://localhost/xmls/3.xml', 'adultresolver')
+    adultresolver = adultresolver.streamer()
+    url = adultresolver.resolve(url)
+    return url
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+<item>
+<name>Mporno.tv - Most Viewed</name>
+<link>$doregex[makelist]</link>
+<thumbnail></thumbnail>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+        <title>[makelist.param3]</title>
+        <link>$doregex[playurl]</link>
+        <thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+    from resources.lib.modules import cache,client,workers
+    import re,urllib,xbmc,xbmcgui
+
+    class page:
+        def run(self, r):
+            threads = [] ; self.r = [] ; r = [(r.index(i)+1, i) for i in r]
+            for i in r: threads.append(workers.Thread(self.request, i))
+            [i.start() for i in threads] ; [i.join() for i in threads]
+            return ''.join([str(i[1]) for i in sorted(self.r, key=lambda x: x[0])])
+        def request(self, i):
+            self.r += [(i[0], client.request(i[1]))]
+    def unescape(s):
+        return re.sub('&#(\d+);', '', s)         
+
+    url = 'http://mporno.tv/most-viewed/page'
+    u = []
+    for i in range(1, 12): u += [url + str(i) + '.html']
+    u = cache.get(page().run, 24, u)
+    e = re.findall('(?s)class="bg">(?:[^f]*)f="([^"]*)(?:[^_]*)_image" src="([^"]*)" alt="([^"]*)', u)
+    e = [(i[0], i[1], unescape(i[2])) for i in e]  
+    return e
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>playurl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+    from resources.lib.modules import client
+    import re
+    url = '[makelist.param1]'
+    from resources.lib.modules import control
+    adultresolver = control.cdnImport('http://localhost/xmls/3.xml', 'adultresolver')
+    adultresolver = adultresolver.streamer()
+    url = adultresolver.resolve(url)
+    return url
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+<item>
+<name>Mporno.tv - Longest</name>
+<link>$doregex[makelist]</link>
+<thumbnail></thumbnail>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+        <title>[makelist.param3]</title>
+        <link>$doregex[playurl]</link>
+        <thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+    from resources.lib.modules import cache,client,workers
+    import re,urllib,xbmc,xbmcgui
+
+    class page:
+        def run(self, r):
+            threads = [] ; self.r = [] ; r = [(r.index(i)+1, i) for i in r]
+            for i in r: threads.append(workers.Thread(self.request, i))
+            [i.start() for i in threads] ; [i.join() for i in threads]
+            return ''.join([str(i[1]) for i in sorted(self.r, key=lambda x: x[0])])
+        def request(self, i):
+            self.r += [(i[0], client.request(i[1]))]
+    def unescape(s):
+        return re.sub('&#(\d+);', '', s)         
+
+    url = 'http://mporno.tv/longest/page'
+    u = []
+    for i in range(1, 12): u += [url + str(i) + '.html']
+    u = cache.get(page().run, 24, u)
+    e = re.findall('(?s)class="bg">(?:[^f]*)f="([^"]*)(?:[^_]*)_image" src="([^"]*)" alt="([^"]*)', u)
+    e = [(i[0], i[1], unescape(i[2])) for i in e]  
+    return e
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>playurl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+    from resources.lib.modules import client
+    import re
+    url = '[makelist.param1]'
+    from resources.lib.modules import control
+    adultresolver = control.cdnImport('http://localhost/xmls/3.xml', 'adultresolver')
+    adultresolver = adultresolver.streamer()
+    url = adultresolver.resolve(url)
+    return url
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+<item>
+<name>Mporno.tv - Most Discussed</name>
+<link>$doregex[makelist]</link>
+<thumbnail></thumbnail>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+        <title>[makelist.param3]</title>
+        <link>$doregex[playurl]</link>
+        <thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+    from resources.lib.modules import cache,client,workers
+    import re,urllib,xbmc,xbmcgui
+
+    class page:
+        def run(self, r):
+            threads = [] ; self.r = [] ; r = [(r.index(i)+1, i) for i in r]
+            for i in r: threads.append(workers.Thread(self.request, i))
+            [i.start() for i in threads] ; [i.join() for i in threads]
+            return ''.join([str(i[1]) for i in sorted(self.r, key=lambda x: x[0])])
+        def request(self, i):
+            self.r += [(i[0], client.request(i[1]))]
+    def unescape(s):
+        return re.sub('&#(\d+);', '', s)         
+
+    url = 'http://mporno.tv/most-discussed/page'
+    u = []
+    for i in range(1, 12): u += [url + str(i) + '.html']
+    u = cache.get(page().run, 24, u)
+    e = re.findall('(?s)class="bg">(?:[^f]*)f="([^"]*)(?:[^_]*)_image" src="([^"]*)" alt="([^"]*)', u)
+    e = [(i[0], i[1], unescape(i[2])) for i in e]  
+    return e
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>playurl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+    from resources.lib.modules import client
+    import re
+    url = '[makelist.param1]'
+    from resources.lib.modules import control
+    adultresolver = control.cdnImport('http://localhost/xmls/3.xml', 'adultresolver')
+    adultresolver = adultresolver.streamer()
+    url = adultresolver.resolve(url)
+    return url
+]]></expres>
+<page></page>
+</regex>
+</item>
+<item>
+<name>Mporno.tv - Random</name>
+<link>$doregex[makelist]</link>
+<thumbnail></thumbnail>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+        <title>[makelist.param3]</title>
+        <link>$doregex[playurl]</link>
+        <thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+    from resources.lib.modules import cache,client,workers
+    import re,urllib,xbmc,xbmcgui
+
+    class page:
+        def run(self, r):
+            threads = [] ; self.r = [] ; r = [(r.index(i)+1, i) for i in r]
+            for i in r: threads.append(workers.Thread(self.request, i))
+            [i.start() for i in threads] ; [i.join() for i in threads]
+            return ''.join([str(i[1]) for i in sorted(self.r, key=lambda x: x[0])])
+        def request(self, i):
+            self.r += [(i[0], client.request(i[1]))]
+    def unescape(s):
+        return re.sub('&#(\d+);', '', s)         
+
+    url = 'http://mporno.tv/random/page'
+    u = []
+    for i in range(1, 12): u += [url + str(i) + '.html']
+    u = cache.get(page().run, 24, u)
+    e = re.findall('(?s)class="bg">(?:[^f]*)f="([^"]*)(?:[^_]*)_image" src="([^"]*)" alt="([^"]*)', u)
+    e = [(i[0], i[1], unescape(i[2])) for i in e]  
+    return e
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>playurl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+    from resources.lib.modules import client
+    import re
+    url = '[makelist.param1]'
+    from resources.lib.modules import control
+    adultresolver = control.cdnImport('http://localhost/xmls/3.xml', 'adultresolver')
+    adultresolver = adultresolver.streamer()
+    url = adultresolver.resolve(url)
+    return url
+]]></expres>
+<page></page>
+</regex>
+</item>

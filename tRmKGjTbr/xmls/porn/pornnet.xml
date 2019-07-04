@@ -1,0 +1,2866 @@
+
+
+<dir>
+
+<title>[B]TnA [/B]</title>
+
+<link>hurl to /mv.xml</link>
+
+<thumbnail>http://jizzplanet.com/repo/icons/JP-SCENES.png</thumbnail>
+
+</dir>
+
+
+
+<item>
+
+<name>[B]Networks By Rank most-viewed[/B]</name>
+
+<link>$doregex[makelist]</link>
+
+<thumbnail>url to thumb</thumbnail>
+
+<regex>
+
+<name>makelist</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist.param1][/COLOR]-[COLOR red]Rank:[makelist.param4][/COLOR]</title>
+
+<link>$doregex[makelist2]</link>
+
+<thumbnail>[makelist.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[<li data-name="(.+?)">.*\n.*\n.+href="(.+?)".*\n.+original="(.+?)".*\n.*\n.*\n.+Stat">(.+?)<]]></expres>
+
+<page>https://www.tnaflix.com/channels/all/most-viewed/1/all</page>
+
+</regex>
+
+<regex>
+
+<name>makelist2</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist2.param1][/COLOR]</title>
+
+<link>$doregex[cosmix]</link>
+
+<thumbnail>[makelist2.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[data-name='(.+?)' >.*\n.+href='(.+?)'.*\n.+original='(.+?)']]></expres>
+
+<page>https://www.tnaflix.com[makelist.param2]/videos</page>
+
+</regex>
+
+<regex>
+
+<name>cosmix</name>
+
+<expres><![CDATA[<meta itemprop="contentUrl" content="(.+?)" \/>]]></expres>
+
+<page>https://www.tnaflix.com[makelist2.param2]</page>
+
+</regex>
+
+</item>
+
+
+
+<item>
+
+<name>[B]Networks By Rank most-viewed[/B]</name>
+
+<link>$doregex[makelist]</link>
+
+<thumbnail>url to thumb</thumbnail>
+
+<regex>
+
+<name>makelist</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist.param1][/COLOR]-[COLOR red]Rank:[makelist.param4][/COLOR]</title>
+
+<link>$doregex[makelist2]</link>
+
+<thumbnail>[makelist.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[<li data-name="(.+?)">.*\n.*\n.+href="(.+?)".*\n.+original="(.+?)".*\n.*\n.*\n.+Stat">(.+?)<]]></expres>
+
+<page>https://www.tnaflix.com/channels/all/most-viewed/2/all</page>
+
+</regex>
+
+<regex>
+
+<name>makelist2</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist2.param1][/COLOR]</title>
+
+<link>$doregex[cosmix]</link>
+
+<thumbnail>[makelist2.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[data-name='(.+?)' >.*\n.+href='(.+?)'.*\n.+original='(.+?)']]></expres>
+
+<page>https://www.tnaflix.com[makelist.param2]/videos</page>
+
+</regex>
+
+<regex>
+
+<name>cosmix</name>
+
+<expres><![CDATA[<meta itemprop="contentUrl" content="(.+?)" \/>]]></expres>
+
+<page>https://www.tnaflix.com[makelist2.param2]</page>
+
+</regex>
+
+</item>
+
+
+
+<item>
+
+<name>[B]Networks By Rank most-viewed[/B]</name>
+
+<link>$doregex[makelist]</link>
+
+<thumbnail>url to thumb</thumbnail>
+
+<regex>
+
+<name>makelist</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist.param1][/COLOR]-[COLOR red]Rank:[makelist.param4][/COLOR]</title>
+
+<link>$doregex[makelist2]</link>
+
+<thumbnail>[makelist.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[<li data-name="(.+?)">.*\n.*\n.+href="(.+?)".*\n.+original="(.+?)".*\n.*\n.*\n.+Stat">(.+?)<]]></expres>
+
+<page>https://www.tnaflix.com/channels/all/most-viewed/3/all</page>
+
+</regex>
+
+<regex>
+
+<name>makelist2</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist2.param1][/COLOR]</title>
+
+<link>$doregex[cosmix]</link>
+
+<thumbnail>[makelist2.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[data-name='(.+?)' >.*\n.+href='(.+?)'.*\n.+original='(.+?)']]></expres>
+
+<page>https://www.tnaflix.com[makelist.param2]/videos</page>
+
+</regex>
+
+<regex>
+
+<name>cosmix</name>
+
+<expres><![CDATA[<meta itemprop="contentUrl" content="(.+?)" \/>]]></expres>
+
+<page>https://www.tnaflix.com[makelist2.param2]</page>
+
+</regex>
+
+</item>
+
+
+
+<item>
+
+<name>[B]Networks By Rank most-viewed[/B]</name>
+
+<link>$doregex[makelist]</link>
+
+<thumbnail>url to thumb</thumbnail>
+
+<regex>
+
+<name>makelist</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist.param1][/COLOR]-[COLOR red]Rank:[makelist.param4][/COLOR]</title>
+
+<link>$doregex[makelist2]</link>
+
+<thumbnail>[makelist.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[<li data-name="(.+?)">.*\n.*\n.+href="(.+?)".*\n.+original="(.+?)".*\n.*\n.*\n.+Stat">(.+?)<]]></expres>
+
+<page>https://www.tnaflix.com/channels/all/most-viewed/4/all</page>
+
+</regex>
+
+<regex>
+
+<name>makelist2</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist2.param1][/COLOR]</title>
+
+<link>$doregex[cosmix]</link>
+
+<thumbnail>[makelist2.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[data-name='(.+?)' >.*\n.+href='(.+?)'.*\n.+original='(.+?)']]></expres>
+
+<page>https://www.tnaflix.com[makelist.param2]/videos</page>
+
+</regex>
+
+<regex>
+
+<name>cosmix</name>
+
+<expres><![CDATA[<meta itemprop="contentUrl" content="(.+?)" \/>]]></expres>
+
+<page>https://www.tnaflix.com[makelist2.param2]</page>
+
+</regex>
+
+</item>
+
+
+
+<item>
+
+<name>[B]Networks By Rank most-viewed[/B]</name>
+
+<link>$doregex[makelist]</link>
+
+<thumbnail>url to thumb</thumbnail>
+
+<regex>
+
+<name>makelist</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist.param1][/COLOR]-[COLOR red]Rank:[makelist.param4][/COLOR]</title>
+
+<link>$doregex[makelist2]</link>
+
+<thumbnail>[makelist.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[<li data-name="(.+?)">.*\n.*\n.+href="(.+?)".*\n.+original="(.+?)".*\n.*\n.*\n.+Stat">(.+?)<]]></expres>
+
+<page>https://www.tnaflix.com/channels/all/most-viewed/5/all</page>
+
+</regex>
+
+<regex>
+
+<name>makelist2</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist2.param1][/COLOR]</title>
+
+<link>$doregex[cosmix]</link>
+
+<thumbnail>[makelist2.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[data-name='(.+?)' >.*\n.+href='(.+?)'.*\n.+original='(.+?)']]></expres>
+
+<page>https://www.tnaflix.com[makelist.param2]/videos</page>
+
+</regex>
+
+<regex>
+
+<name>cosmix</name>
+
+<expres><![CDATA[<meta itemprop="contentUrl" content="(.+?)" \/>]]></expres>
+
+<page>https://www.tnaflix.com[makelist2.param2]</page>
+
+</regex>
+
+</item>
+
+
+
+<item>
+
+<name>[B]Networks By Rank most-viewed[/B]</name>
+
+<link>$doregex[makelist]</link>
+
+<thumbnail>url to thumb</thumbnail>
+
+<regex>
+
+<name>makelist</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist.param1][/COLOR]-[COLOR red]Rank:[makelist.param4][/COLOR]</title>
+
+<link>$doregex[makelist2]</link>
+
+<thumbnail>[makelist.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[<li data-name="(.+?)">.*\n.*\n.+href="(.+?)".*\n.+original="(.+?)".*\n.*\n.*\n.+Stat">(.+?)<]]></expres>
+
+<page>https://www.tnaflix.com/channels/all/most-viewed/6/all</page>
+
+</regex>
+
+<regex>
+
+<name>makelist2</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist2.param1][/COLOR]</title>
+
+<link>$doregex[cosmix]</link>
+
+<thumbnail>[makelist2.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[data-name='(.+?)' >.*\n.+href='(.+?)'.*\n.+original='(.+?)']]></expres>
+
+<page>https://www.tnaflix.com[makelist.param2]/videos</page>
+
+</regex>
+
+<regex>
+
+<name>cosmix</name>
+
+<expres><![CDATA[<meta itemprop="contentUrl" content="(.+?)" \/>]]></expres>
+
+<page>https://www.tnaflix.com[makelist2.param2]</page>
+
+</regex>
+
+</item>
+
+
+
+<item>
+
+<name>[B]Networks By Rank most-viewed[/B]</name>
+
+<link>$doregex[makelist]</link>
+
+<thumbnail>url to thumb</thumbnail>
+
+<regex>
+
+<name>makelist</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist.param1][/COLOR]-[COLOR red]Rank:[makelist.param4][/COLOR]</title>
+
+<link>$doregex[makelist2]</link>
+
+<thumbnail>[makelist.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[<li data-name="(.+?)">.*\n.*\n.+href="(.+?)".*\n.+original="(.+?)".*\n.*\n.*\n.+Stat">(.+?)<]]></expres>
+
+<page>https://www.tnaflix.com/channels/all/most-viewed/7/all</page>
+
+</regex>
+
+<regex>
+
+<name>makelist2</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist2.param1][/COLOR]</title>
+
+<link>$doregex[cosmix]</link>
+
+<thumbnail>[makelist2.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[data-name='(.+?)' >.*\n.+href='(.+?)'.*\n.+original='(.+?)']]></expres>
+
+<page>https://www.tnaflix.com[makelist.param2]/videos</page>
+
+</regex>
+
+<regex>
+
+<name>cosmix</name>
+
+<expres><![CDATA[<meta itemprop="contentUrl" content="(.+?)" \/>]]></expres>
+
+<page>https://www.tnaflix.com[makelist2.param2]</page>
+
+</regex>
+
+</item>
+
+
+
+<item>
+
+<name>[B]Networks By Rank most-viewed[/B]</name>
+
+<link>$doregex[makelist]</link>
+
+<thumbnail>url to thumb</thumbnail>
+
+<regex>
+
+<name>makelist</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist.param1][/COLOR]-[COLOR red]Rank:[makelist.param4][/COLOR]</title>
+
+<link>$doregex[makelist2]</link>
+
+<thumbnail>[makelist.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[<li data-name="(.+?)">.*\n.*\n.+href="(.+?)".*\n.+original="(.+?)".*\n.*\n.*\n.+Stat">(.+?)<]]></expres>
+
+<page>https://www.tnaflix.com/channels/all/most-viewed/8/all</page>
+
+</regex>
+
+<regex>
+
+<name>makelist2</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist2.param1][/COLOR]</title>
+
+<link>$doregex[cosmix]</link>
+
+<thumbnail>[makelist2.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[data-name='(.+?)' >.*\n.+href='(.+?)'.*\n.+original='(.+?)']]></expres>
+
+<page>https://www.tnaflix.com[makelist.param2]/videos</page>
+
+</regex>
+
+<regex>
+
+<name>cosmix</name>
+
+<expres><![CDATA[<meta itemprop="contentUrl" content="(.+?)" \/>]]></expres>
+
+<page>https://www.tnaflix.com[makelist2.param2]</page>
+
+</regex>
+
+</item>
+
+
+
+<item>
+
+<name>[B]Networks By Rank most-viewed[/B]</name>
+
+<link>$doregex[makelist]</link>
+
+<thumbnail>url to thumb</thumbnail>
+
+<regex>
+
+<name>makelist</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist.param1][/COLOR]-[COLOR red]Rank:[makelist.param4][/COLOR]</title>
+
+<link>$doregex[makelist2]</link>
+
+<thumbnail>[makelist.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[<li data-name="(.+?)">.*\n.*\n.+href="(.+?)".*\n.+original="(.+?)".*\n.*\n.*\n.+Stat">(.+?)<]]></expres>
+
+<page>https://www.tnaflix.com/channels/all/most-viewed/9/all</page>
+
+</regex>
+
+<regex>
+
+<name>makelist2</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist2.param1][/COLOR]</title>
+
+<link>$doregex[cosmix]</link>
+
+<thumbnail>[makelist2.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[data-name='(.+?)' >.*\n.+href='(.+?)'.*\n.+original='(.+?)']]></expres>
+
+<page>https://www.tnaflix.com[makelist.param2]/videos</page>
+
+</regex>
+
+<regex>
+
+<name>cosmix</name>
+
+<expres><![CDATA[<meta itemprop="contentUrl" content="(.+?)" \/>]]></expres>
+
+<page>https://www.tnaflix.com[makelist2.param2]</page>
+
+</regex>
+
+</item>
+
+
+
+<item>
+
+<name>[B]Networks By Rank most-viewed[/B]</name>
+
+<link>$doregex[makelist]</link>
+
+<thumbnail>url to thumb</thumbnail>
+
+<regex>
+
+<name>makelist</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist.param1][/COLOR]-[COLOR red]Rank:[makelist.param4][/COLOR]</title>
+
+<link>$doregex[makelist2]</link>
+
+<thumbnail>[makelist.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[<li data-name="(.+?)">.*\n.*\n.+href="(.+?)".*\n.+original="(.+?)".*\n.*\n.*\n.+Stat">(.+?)<]]></expres>
+
+<page>https://www.tnaflix.com/channels/all/most-viewed/10/all</page>
+
+</regex>
+
+<regex>
+
+<name>makelist2</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist2.param1][/COLOR]</title>
+
+<link>$doregex[cosmix]</link>
+
+<thumbnail>[makelist2.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[data-name='(.+?)' >.*\n.+href='(.+?)'.*\n.+original='(.+?)']]></expres>
+
+<page>https://www.tnaflix.com[makelist.param2]/videos</page>
+
+</regex>
+
+<regex>
+
+<name>cosmix</name>
+
+<expres><![CDATA[<meta itemprop="contentUrl" content="(.+?)" \/>]]></expres>
+
+<page>https://www.tnaflix.com[makelist2.param2]</page>
+
+</regex>
+
+</item>
+
+
+
+<item>
+
+<name>[B]Networks By Rank most-viewed[/B]</name>
+
+<link>$doregex[makelist]</link>
+
+<thumbnail>url to thumb</thumbnail>
+
+<regex>
+
+<name>makelist</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist.param1][/COLOR]-[COLOR red]Rank:[makelist.param4][/COLOR]</title>
+
+<link>$doregex[makelist2]</link>
+
+<thumbnail>[makelist.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[<li data-name="(.+?)">.*\n.*\n.+href="(.+?)".*\n.+original="(.+?)".*\n.*\n.*\n.+Stat">(.+?)<]]></expres>
+
+<page>https://www.tnaflix.com/channels/all/most-viewed/11/all</page>
+
+</regex>
+
+<regex>
+
+<name>makelist2</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist2.param1][/COLOR]</title>
+
+<link>$doregex[cosmix]</link>
+
+<thumbnail>[makelist2.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[data-name='(.+?)' >.*\n.+href='(.+?)'.*\n.+original='(.+?)']]></expres>
+
+<page>https://www.tnaflix.com[makelist.param2]/videos</page>
+
+</regex>
+
+<regex>
+
+<name>cosmix</name>
+
+<expres><![CDATA[<meta itemprop="contentUrl" content="(.+?)" \/>]]></expres>
+
+<page>https://www.tnaflix.com[makelist2.param2]</page>
+
+</regex>
+
+</item>
+
+
+
+<item>
+
+<name>[B]Networks By Rank most-viewed[/B]</name>
+
+<link>$doregex[makelist]</link>
+
+<thumbnail>url to thumb</thumbnail>
+
+<regex>
+
+<name>makelist</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist.param1][/COLOR]-[COLOR red]Rank:[makelist.param4][/COLOR]</title>
+
+<link>$doregex[makelist2]</link>
+
+<thumbnail>[makelist.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[<li data-name="(.+?)">.*\n.*\n.+href="(.+?)".*\n.+original="(.+?)".*\n.*\n.*\n.+Stat">(.+?)<]]></expres>
+
+<page>https://www.tnaflix.com/channels/all/most-viewed/12/all</page>
+
+</regex>
+
+<regex>
+
+<name>makelist2</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist2.param1][/COLOR]</title>
+
+<link>$doregex[cosmix]</link>
+
+<thumbnail>[makelist2.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[data-name='(.+?)' >.*\n.+href='(.+?)'.*\n.+original='(.+?)']]></expres>
+
+<page>https://www.tnaflix.com[makelist.param2]/videos</page>
+
+</regex>
+
+<regex>
+
+<name>cosmix</name>
+
+<expres><![CDATA[<meta itemprop="contentUrl" content="(.+?)" \/>]]></expres>
+
+<page>https://www.tnaflix.com[makelist2.param2]</page>
+
+</regex>
+
+</item>
+
+
+
+<item>
+
+<name>[B]Networks By Rank most-viewed[/B]</name>
+
+<link>$doregex[makelist]</link>
+
+<thumbnail>url to thumb</thumbnail>
+
+<regex>
+
+<name>makelist</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist.param1][/COLOR]-[COLOR red]Rank:[makelist.param4][/COLOR]</title>
+
+<link>$doregex[makelist2]</link>
+
+<thumbnail>[makelist.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[<li data-name="(.+?)">.*\n.*\n.+href="(.+?)".*\n.+original="(.+?)".*\n.*\n.*\n.+Stat">(.+?)<]]></expres>
+
+<page>https://www.tnaflix.com/channels/all/most-viewed/13/all</page>
+
+</regex>
+
+<regex>
+
+<name>makelist2</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist2.param1][/COLOR]</title>
+
+<link>$doregex[cosmix]</link>
+
+<thumbnail>[makelist2.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[data-name='(.+?)' >.*\n.+href='(.+?)'.*\n.+original='(.+?)']]></expres>
+
+<page>https://www.tnaflix.com[makelist.param2]/videos</page>
+
+</regex>
+
+<regex>
+
+<name>cosmix</name>
+
+<expres><![CDATA[<meta itemprop="contentUrl" content="(.+?)" \/>]]></expres>
+
+<page>https://www.tnaflix.com[makelist2.param2]</page>
+
+</regex>
+
+</item>
+
+
+
+<item>
+
+<name>[B]Networks By Rank most-viewed[/B]</name>
+
+<link>$doregex[makelist]</link>
+
+<thumbnail>url to thumb</thumbnail>
+
+<regex>
+
+<name>makelist</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist.param1][/COLOR]-[COLOR red]Rank:[makelist.param4][/COLOR]</title>
+
+<link>$doregex[makelist2]</link>
+
+<thumbnail>[makelist.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[<li data-name="(.+?)">.*\n.*\n.+href="(.+?)".*\n.+original="(.+?)".*\n.*\n.*\n.+Stat">(.+?)<]]></expres>
+
+<page>https://www.tnaflix.com/channels/all/most-viewed/14/all</page>
+
+</regex>
+
+<regex>
+
+<name>makelist2</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist2.param1][/COLOR]</title>
+
+<link>$doregex[cosmix]</link>
+
+<thumbnail>[makelist2.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[data-name='(.+?)' >.*\n.+href='(.+?)'.*\n.+original='(.+?)']]></expres>
+
+<page>https://www.tnaflix.com[makelist.param2]/videos</page>
+
+</regex>
+
+<regex>
+
+<name>cosmix</name>
+
+<expres><![CDATA[<meta itemprop="contentUrl" content="(.+?)" \/>]]></expres>
+
+<page>https://www.tnaflix.com[makelist2.param2]</page>
+
+</regex>
+
+</item>
+
+
+
+<item>
+
+<name>[B]Networks By Rank most-viewed[/B]</name>
+
+<link>$doregex[makelist]</link>
+
+<thumbnail>url to thumb</thumbnail>
+
+<regex>
+
+<name>makelist</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist.param1][/COLOR]-[COLOR red]Rank:[makelist.param4][/COLOR]</title>
+
+<link>$doregex[makelist2]</link>
+
+<thumbnail>[makelist.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[<li data-name="(.+?)">.*\n.*\n.+href="(.+?)".*\n.+original="(.+?)".*\n.*\n.*\n.+Stat">(.+?)<]]></expres>
+
+<page>https://www.tnaflix.com/channels/all/most-viewed/15/all</page>
+
+</regex>
+
+<regex>
+
+<name>makelist2</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist2.param1][/COLOR]</title>
+
+<link>$doregex[cosmix]</link>
+
+<thumbnail>[makelist2.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[data-name='(.+?)' >.*\n.+href='(.+?)'.*\n.+original='(.+?)']]></expres>
+
+<page>https://www.tnaflix.com[makelist.param2]/videos</page>
+
+</regex>
+
+<regex>
+
+<name>cosmix</name>
+
+<expres><![CDATA[<meta itemprop="contentUrl" content="(.+?)" \/>]]></expres>
+
+<page>https://www.tnaflix.com[makelist2.param2]</page>
+
+</regex>
+
+</item>
+
+
+
+<item>
+
+<name>[B]Networks By Rank most-viewed[/B]</name>
+
+<link>$doregex[makelist]</link>
+
+<thumbnail>url to thumb</thumbnail>
+
+<regex>
+
+<name>makelist</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist.param1][/COLOR]-[COLOR red]Rank:[makelist.param4][/COLOR]</title>
+
+<link>$doregex[makelist2]</link>
+
+<thumbnail>[makelist.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[<li data-name="(.+?)">.*\n.*\n.+href="(.+?)".*\n.+original="(.+?)".*\n.*\n.*\n.+Stat">(.+?)<]]></expres>
+
+<page>https://www.tnaflix.com/channels/all/most-viewed/16/all</page>
+
+</regex>
+
+<regex>
+
+<name>makelist2</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist2.param1][/COLOR]</title>
+
+<link>$doregex[cosmix]</link>
+
+<thumbnail>[makelist2.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[data-name='(.+?)' >.*\n.+href='(.+?)'.*\n.+original='(.+?)']]></expres>
+
+<page>https://www.tnaflix.com[makelist.param2]/videos</page>
+
+</regex>
+
+<regex>
+
+<name>cosmix</name>
+
+<expres><![CDATA[<meta itemprop="contentUrl" content="(.+?)" \/>]]></expres>
+
+<page>https://www.tnaflix.com[makelist2.param2]</page>
+
+</regex>
+
+</item>
+
+
+
+<item>
+
+<name>[B]Networks By Rank most-viewed[/B]</name>
+
+<link>$doregex[makelist]</link>
+
+<thumbnail>url to thumb</thumbnail>
+
+<regex>
+
+<name>makelist</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist.param1][/COLOR]-[COLOR red]Rank:[makelist.param4][/COLOR]</title>
+
+<link>$doregex[makelist2]</link>
+
+<thumbnail>[makelist.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[<li data-name="(.+?)">.*\n.*\n.+href="(.+?)".*\n.+original="(.+?)".*\n.*\n.*\n.+Stat">(.+?)<]]></expres>
+
+<page>https://www.tnaflix.com/channels/all/most-viewed/17/all</page>
+
+</regex>
+
+<regex>
+
+<name>makelist2</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist2.param1][/COLOR]</title>
+
+<link>$doregex[cosmix]</link>
+
+<thumbnail>[makelist2.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[data-name='(.+?)' >.*\n.+href='(.+?)'.*\n.+original='(.+?)']]></expres>
+
+<page>https://www.tnaflix.com[makelist.param2]/videos</page>
+
+</regex>
+
+<regex>
+
+<name>cosmix</name>
+
+<expres><![CDATA[<meta itemprop="contentUrl" content="(.+?)" \/>]]></expres>
+
+<page>https://www.tnaflix.com[makelist2.param2]</page>
+
+</regex>
+
+</item>
+
+
+
+<item>
+
+<name>[B]Networks By Rank most-viewed[/B]</name>
+
+<link>$doregex[makelist]</link>
+
+<thumbnail>url to thumb</thumbnail>
+
+<regex>
+
+<name>makelist</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist.param1][/COLOR]-[COLOR red]Rank:[makelist.param4][/COLOR]</title>
+
+<link>$doregex[makelist2]</link>
+
+<thumbnail>[makelist.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[<li data-name="(.+?)">.*\n.*\n.+href="(.+?)".*\n.+original="(.+?)".*\n.*\n.*\n.+Stat">(.+?)<]]></expres>
+
+<page>https://www.tnaflix.com/channels/all/most-viewed/18/all</page>
+
+</regex>
+
+<regex>
+
+<name>makelist2</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist2.param1][/COLOR]</title>
+
+<link>$doregex[cosmix]</link>
+
+<thumbnail>[makelist2.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[data-name='(.+?)' >.*\n.+href='(.+?)'.*\n.+original='(.+?)']]></expres>
+
+<page>https://www.tnaflix.com[makelist.param2]/videos</page>
+
+</regex>
+
+<regex>
+
+<name>cosmix</name>
+
+<expres><![CDATA[<meta itemprop="contentUrl" content="(.+?)" \/>]]></expres>
+
+<page>https://www.tnaflix.com[makelist2.param2]</page>
+
+</regex>
+
+</item>
+
+
+
+<item>
+
+<name>[B]Networks By Rank most-viewed[/B]</name>
+
+<link>$doregex[makelist]</link>
+
+<thumbnail>url to thumb</thumbnail>
+
+<regex>
+
+<name>makelist</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist.param1][/COLOR]-[COLOR red]Rank:[makelist.param4][/COLOR]</title>
+
+<link>$doregex[makelist2]</link>
+
+<thumbnail>[makelist.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[<li data-name="(.+?)">.*\n.*\n.+href="(.+?)".*\n.+original="(.+?)".*\n.*\n.*\n.+Stat">(.+?)<]]></expres>
+
+<page>https://www.tnaflix.com/channels/all/most-viewed/18/all</page>
+
+</regex>
+
+<regex>
+
+<name>makelist2</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist2.param1][/COLOR]</title>
+
+<link>$doregex[cosmix]</link>
+
+<thumbnail>[makelist2.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[data-name='(.+?)' >.*\n.+href='(.+?)'.*\n.+original='(.+?)']]></expres>
+
+<page>https://www.tnaflix.com[makelist.param2]/videos</page>
+
+</regex>
+
+<regex>
+
+<name>cosmix</name>
+
+<expres><![CDATA[<meta itemprop="contentUrl" content="(.+?)" \/>]]></expres>
+
+<page>https://www.tnaflix.com[makelist2.param2]</page>
+
+</regex>
+
+</item>
+
+
+
+<item>
+
+<name>[B]Networks By Rank most-viewed[/B]</name>
+
+<link>$doregex[makelist]</link>
+
+<thumbnail>url to thumb</thumbnail>
+
+<regex>
+
+<name>makelist</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist.param1][/COLOR]-[COLOR red]Rank:[makelist.param4][/COLOR]</title>
+
+<link>$doregex[makelist2]</link>
+
+<thumbnail>[makelist.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[<li data-name="(.+?)">.*\n.*\n.+href="(.+?)".*\n.+original="(.+?)".*\n.*\n.*\n.+Stat">(.+?)<]]></expres>
+
+<page>https://www.tnaflix.com/channels/all/most-viewed/19/all</page>
+
+</regex>
+
+<regex>
+
+<name>makelist2</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist2.param1][/COLOR]</title>
+
+<link>$doregex[cosmix]</link>
+
+<thumbnail>[makelist2.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[data-name='(.+?)' >.*\n.+href='(.+?)'.*\n.+original='(.+?)']]></expres>
+
+<page>https://www.tnaflix.com[makelist.param2]/videos</page>
+
+</regex>
+
+<regex>
+
+<name>cosmix</name>
+
+<expres><![CDATA[<meta itemprop="contentUrl" content="(.+?)" \/>]]></expres>
+
+<page>https://www.tnaflix.com[makelist2.param2]</page>
+
+</regex>
+
+</item>
+
+
+
+<item>
+
+<name>[B]Networks By Rank most-viewed[/B]</name>
+
+<link>$doregex[makelist]</link>
+
+<thumbnail>url to thumb</thumbnail>
+
+<regex>
+
+<name>makelist</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist.param1][/COLOR]-[COLOR red]Rank:[makelist.param4][/COLOR]</title>
+
+<link>$doregex[makelist2]</link>
+
+<thumbnail>[makelist.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[<li data-name="(.+?)">.*\n.*\n.+href="(.+?)".*\n.+original="(.+?)".*\n.*\n.*\n.+Stat">(.+?)<]]></expres>
+
+<page>https://www.tnaflix.com/channels/all/most-viewed/20/all</page>
+
+</regex>
+
+<regex>
+
+<name>makelist2</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist2.param1][/COLOR]</title>
+
+<link>$doregex[cosmix]</link>
+
+<thumbnail>[makelist2.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[data-name='(.+?)' >.*\n.+href='(.+?)'.*\n.+original='(.+?)']]></expres>
+
+<page>https://www.tnaflix.com[makelist.param2]/videos</page>
+
+</regex>
+
+<regex>
+
+<name>cosmix</name>
+
+<expres><![CDATA[<meta itemprop="contentUrl" content="(.+?)" \/>]]></expres>
+
+<page>https://www.tnaflix.com[makelist2.param2]</page>
+
+</regex>
+
+</item>
+
+
+
+<item>
+
+<name>[B]Networks By Rank most-viewed[/B]</name>
+
+<link>$doregex[makelist]</link>
+
+<thumbnail>url to thumb</thumbnail>
+
+<regex>
+
+<name>makelist</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist.param1][/COLOR]-[COLOR red]Rank:[makelist.param4][/COLOR]</title>
+
+<link>$doregex[makelist2]</link>
+
+<thumbnail>[makelist.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[<li data-name="(.+?)">.*\n.*\n.+href="(.+?)".*\n.+original="(.+?)".*\n.*\n.*\n.+Stat">(.+?)<]]></expres>
+
+<page>https://www.tnaflix.com/channels/all/most-viewed/21/all</page>
+
+</regex>
+
+<regex>
+
+<name>makelist2</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist2.param1][/COLOR]</title>
+
+<link>$doregex[cosmix]</link>
+
+<thumbnail>[makelist2.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[data-name='(.+?)' >.*\n.+href='(.+?)'.*\n.+original='(.+?)']]></expres>
+
+<page>https://www.tnaflix.com[makelist.param2]/videos</page>
+
+</regex>
+
+<regex>
+
+<name>cosmix</name>
+
+<expres><![CDATA[<meta itemprop="contentUrl" content="(.+?)" \/>]]></expres>
+
+<page>https://www.tnaflix.com[makelist2.param2]</page>
+
+</regex>
+
+</item>
+
+
+
+<item>
+
+<name>[B]Networks By Rank most-viewed[/B]</name>
+
+<link>$doregex[makelist]</link>
+
+<thumbnail>url to thumb</thumbnail>
+
+<regex>
+
+<name>makelist</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist.param1][/COLOR]-[COLOR red]Rank:[makelist.param4][/COLOR]</title>
+
+<link>$doregex[makelist2]</link>
+
+<thumbnail>[makelist.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[<li data-name="(.+?)">.*\n.*\n.+href="(.+?)".*\n.+original="(.+?)".*\n.*\n.*\n.+Stat">(.+?)<]]></expres>
+
+<page>https://www.tnaflix.com/channels/all/most-viewed/22/all</page>
+
+</regex>
+
+<regex>
+
+<name>makelist2</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist2.param1][/COLOR]</title>
+
+<link>$doregex[cosmix]</link>
+
+<thumbnail>[makelist2.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[data-name='(.+?)' >.*\n.+href='(.+?)'.*\n.+original='(.+?)']]></expres>
+
+<page>https://www.tnaflix.com[makelist.param2]/videos</page>
+
+</regex>
+
+<regex>
+
+<name>cosmix</name>
+
+<expres><![CDATA[<meta itemprop="contentUrl" content="(.+?)" \/>]]></expres>
+
+<page>https://www.tnaflix.com[makelist2.param2]</page>
+
+</regex>
+
+</item>
+
+
+
+<item>
+
+<name>[B]Networks By Rank most-viewed[/B]</name>
+
+<link>$doregex[makelist]</link>
+
+<thumbnail>url to thumb</thumbnail>
+
+<regex>
+
+<name>makelist</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist.param1][/COLOR]-[COLOR red]Rank:[makelist.param4][/COLOR]</title>
+
+<link>$doregex[makelist2]</link>
+
+<thumbnail>[makelist.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[<li data-name="(.+?)">.*\n.*\n.+href="(.+?)".*\n.+original="(.+?)".*\n.*\n.*\n.+Stat">(.+?)<]]></expres>
+
+<page>https://www.tnaflix.com/channels/all/most-viewed/23/all</page>
+
+</regex>
+
+<regex>
+
+<name>makelist2</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist2.param1][/COLOR]</title>
+
+<link>$doregex[cosmix]</link>
+
+<thumbnail>[makelist2.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[data-name='(.+?)' >.*\n.+href='(.+?)'.*\n.+original='(.+?)']]></expres>
+
+<page>https://www.tnaflix.com[makelist.param2]/videos</page>
+
+</regex>
+
+<regex>
+
+<name>cosmix</name>
+
+<expres><![CDATA[<meta itemprop="contentUrl" content="(.+?)" \/>]]></expres>
+
+<page>https://www.tnaflix.com[makelist2.param2]</page>
+
+</regex>
+
+</item>
+
+
+
+<item>
+
+<name>[B]Networks By Rank most-viewed[/B]</name>
+
+<link>$doregex[makelist]</link>
+
+<thumbnail>url to thumb</thumbnail>
+
+<regex>
+
+<name>makelist</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist.param1][/COLOR]-[COLOR red]Rank:[makelist.param4][/COLOR]</title>
+
+<link>$doregex[makelist2]</link>
+
+<thumbnail>[makelist.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[<li data-name="(.+?)">.*\n.*\n.+href="(.+?)".*\n.+original="(.+?)".*\n.*\n.*\n.+Stat">(.+?)<]]></expres>
+
+<page>https://www.tnaflix.com/channels/all/most-viewed/24/all</page>
+
+</regex>
+
+<regex>
+
+<name>makelist2</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist2.param1][/COLOR]</title>
+
+<link>$doregex[cosmix]</link>
+
+<thumbnail>[makelist2.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[data-name='(.+?)' >.*\n.+href='(.+?)'.*\n.+original='(.+?)']]></expres>
+
+<page>https://www.tnaflix.com[makelist.param2]/videos</page>
+
+</regex>
+
+<regex>
+
+<name>cosmix</name>
+
+<expres><![CDATA[<meta itemprop="contentUrl" content="(.+?)" \/>]]></expres>
+
+<page>https://www.tnaflix.com[makelist2.param2]</page>
+
+</regex>
+
+</item>
+
+
+
+<item>
+
+<name>[B]Networks By Rank most-viewed[/B]</name>
+
+<link>$doregex[makelist]</link>
+
+<thumbnail>url to thumb</thumbnail>
+
+<regex>
+
+<name>makelist</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist.param1][/COLOR]-[COLOR red]Rank:[makelist.param4][/COLOR]</title>
+
+<link>$doregex[makelist2]</link>
+
+<thumbnail>[makelist.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[<li data-name="(.+?)">.*\n.*\n.+href="(.+?)".*\n.+original="(.+?)".*\n.*\n.*\n.+Stat">(.+?)<]]></expres>
+
+<page>https://www.tnaflix.com/channels/all/most-viewed/25/all</page>
+
+</regex>
+
+<regex>
+
+<name>makelist2</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist2.param1][/COLOR]</title>
+
+<link>$doregex[cosmix]</link>
+
+<thumbnail>[makelist2.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[data-name='(.+?)' >.*\n.+href='(.+?)'.*\n.+original='(.+?)']]></expres>
+
+<page>https://www.tnaflix.com[makelist.param2]/videos</page>
+
+</regex>
+
+<regex>
+
+<name>cosmix</name>
+
+<expres><![CDATA[<meta itemprop="contentUrl" content="(.+?)" \/>]]></expres>
+
+<page>https://www.tnaflix.com[makelist2.param2]</page>
+
+</regex>
+
+</item>
+
+
+
+<item>
+
+<name>[B]Networks By Rank most-viewed[/B]</name>
+
+<link>$doregex[makelist]</link>
+
+<thumbnail>url to thumb</thumbnail>
+
+<regex>
+
+<name>makelist</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist.param1][/COLOR]-[COLOR red]Rank:[makelist.param4][/COLOR]</title>
+
+<link>$doregex[makelist2]</link>
+
+<thumbnail>[makelist.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[<li data-name="(.+?)">.*\n.*\n.+href="(.+?)".*\n.+original="(.+?)".*\n.*\n.*\n.+Stat">(.+?)<]]></expres>
+
+<page>https://www.tnaflix.com/channels/all/most-viewed/26/all</page>
+
+</regex>
+
+<regex>
+
+<name>makelist2</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist2.param1][/COLOR]</title>
+
+<link>$doregex[cosmix]</link>
+
+<thumbnail>[makelist2.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[data-name='(.+?)' >.*\n.+href='(.+?)'.*\n.+original='(.+?)']]></expres>
+
+<page>https://www.tnaflix.com[makelist.param2]/videos</page>
+
+</regex>
+
+<regex>
+
+<name>cosmix</name>
+
+<expres><![CDATA[<meta itemprop="contentUrl" content="(.+?)" \/>]]></expres>
+
+<page>https://www.tnaflix.com[makelist2.param2]</page>
+
+</regex>
+
+</item>
+
+
+
+<item>
+
+<name>[B]Networks By Rank most-viewed[/B]</name>
+
+<link>$doregex[makelist]</link>
+
+<thumbnail>url to thumb</thumbnail>
+
+<regex>
+
+<name>makelist</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist.param1][/COLOR]-[COLOR red]Rank:[makelist.param4][/COLOR]</title>
+
+<link>$doregex[makelist2]</link>
+
+<thumbnail>[makelist.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[<li data-name="(.+?)">.*\n.*\n.+href="(.+?)".*\n.+original="(.+?)".*\n.*\n.*\n.+Stat">(.+?)<]]></expres>
+
+<page>https://www.tnaflix.com/channels/all/most-viewed/27/all</page>
+
+</regex>
+
+<regex>
+
+<name>makelist2</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist2.param1][/COLOR]</title>
+
+<link>$doregex[cosmix]</link>
+
+<thumbnail>[makelist2.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[data-name='(.+?)' >.*\n.+href='(.+?)'.*\n.+original='(.+?)']]></expres>
+
+<page>https://www.tnaflix.com[makelist.param2]/videos</page>
+
+</regex>
+
+<regex>
+
+<name>cosmix</name>
+
+<expres><![CDATA[<meta itemprop="contentUrl" content="(.+?)" \/>]]></expres>
+
+<page>https://www.tnaflix.com[makelist2.param2]</page>
+
+</regex>
+
+</item>
+
+
+
+<item>
+
+<name>[B]Networks By Rank most-viewed[/B]</name>
+
+<link>$doregex[makelist]</link>
+
+<thumbnail>url to thumb</thumbnail>
+
+<regex>
+
+<name>makelist</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist.param1][/COLOR]-[COLOR red]Rank:[makelist.param4][/COLOR]</title>
+
+<link>$doregex[makelist2]</link>
+
+<thumbnail>[makelist.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[<li data-name="(.+?)">.*\n.*\n.+href="(.+?)".*\n.+original="(.+?)".*\n.*\n.*\n.+Stat">(.+?)<]]></expres>
+
+<page>https://www.tnaflix.com/channels/all/most-viewed/28/all</page>
+
+</regex>
+
+<regex>
+
+<name>makelist2</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist2.param1][/COLOR]</title>
+
+<link>$doregex[cosmix]</link>
+
+<thumbnail>[makelist2.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[data-name='(.+?)' >.*\n.+href='(.+?)'.*\n.+original='(.+?)']]></expres>
+
+<page>https://www.tnaflix.com[makelist.param2]/videos</page>
+
+</regex>
+
+<regex>
+
+<name>cosmix</name>
+
+<expres><![CDATA[<meta itemprop="contentUrl" content="(.+?)" \/>]]></expres>
+
+<page>https://www.tnaflix.com[makelist2.param2]</page>
+
+</regex>
+
+</item>
+
+
+
+<item>
+
+<name>[B]Networks By Rank most-viewed[/B]</name>
+
+<link>$doregex[makelist]</link>
+
+<thumbnail>url to thumb</thumbnail>
+
+<regex>
+
+<name>makelist</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist.param1][/COLOR]-[COLOR red]Rank:[makelist.param4][/COLOR]</title>
+
+<link>$doregex[makelist2]</link>
+
+<thumbnail>[makelist.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[<li data-name="(.+?)">.*\n.*\n.+href="(.+?)".*\n.+original="(.+?)".*\n.*\n.*\n.+Stat">(.+?)<]]></expres>
+
+<page>https://www.tnaflix.com/channels/all/most-viewed/29/all</page>
+
+</regex>
+
+<regex>
+
+<name>makelist2</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist2.param1][/COLOR]</title>
+
+<link>$doregex[cosmix]</link>
+
+<thumbnail>[makelist2.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[data-name='(.+?)' >.*\n.+href='(.+?)'.*\n.+original='(.+?)']]></expres>
+
+<page>https://www.tnaflix.com[makelist.param2]/videos</page>
+
+</regex>
+
+<regex>
+
+<name>cosmix</name>
+
+<expres><![CDATA[<meta itemprop="contentUrl" content="(.+?)" \/>]]></expres>
+
+<page>https://www.tnaflix.com[makelist2.param2]</page>
+
+</regex>
+
+</item>
+
+
+
+<item>
+
+<name>[B]Networks By Rank most-viewed[/B]</name>
+
+<link>$doregex[makelist]</link>
+
+<thumbnail>url to thumb</thumbnail>
+
+<regex>
+
+<name>makelist</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist.param1][/COLOR]-[COLOR red]Rank:[makelist.param4][/COLOR]</title>
+
+<link>$doregex[makelist2]</link>
+
+<thumbnail>[makelist.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[<li data-name="(.+?)">.*\n.*\n.+href="(.+?)".*\n.+original="(.+?)".*\n.*\n.*\n.+Stat">(.+?)<]]></expres>
+
+<page>https://www.tnaflix.com/channels/all/most-viewed/30/all</page>
+
+</regex>
+
+<regex>
+
+<name>makelist2</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist2.param1][/COLOR]</title>
+
+<link>$doregex[cosmix]</link>
+
+<thumbnail>[makelist2.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[data-name='(.+?)' >.*\n.+href='(.+?)'.*\n.+original='(.+?)']]></expres>
+
+<page>https://www.tnaflix.com[makelist.param2]/videos</page>
+
+</regex>
+
+<regex>
+
+<name>cosmix</name>
+
+<expres><![CDATA[<meta itemprop="contentUrl" content="(.+?)" \/>]]></expres>
+
+<page>https://www.tnaflix.com[makelist2.param2]</page>
+
+</regex>
+
+</item>
+
+
+
+<item>
+
+<name>[B]Networks By Rank most-viewed[/B]</name>
+
+<link>$doregex[makelist]</link>
+
+<thumbnail>url to thumb</thumbnail>
+
+<regex>
+
+<name>makelist</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist.param1][/COLOR]-[COLOR red]Rank:[makelist.param4][/COLOR]</title>
+
+<link>$doregex[makelist2]</link>
+
+<thumbnail>[makelist.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[<li data-name="(.+?)">.*\n.*\n.+href="(.+?)".*\n.+original="(.+?)".*\n.*\n.*\n.+Stat">(.+?)<]]></expres>
+
+<page>https://www.tnaflix.com/channels/all/most-viewed/31/all</page>
+
+</regex>
+
+<regex>
+
+<name>makelist2</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist2.param1][/COLOR]</title>
+
+<link>$doregex[cosmix]</link>
+
+<thumbnail>[makelist2.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[data-name='(.+?)' >.*\n.+href='(.+?)'.*\n.+original='(.+?)']]></expres>
+
+<page>https://www.tnaflix.com[makelist.param2]/videos</page>
+
+</regex>
+
+<regex>
+
+<name>cosmix</name>
+
+<expres><![CDATA[<meta itemprop="contentUrl" content="(.+?)" \/>]]></expres>
+
+<page>https://www.tnaflix.com[makelist2.param2]</page>
+
+</regex>
+
+</item>
+
+
+
+<item>
+
+<name>[B]Networks By Rank most-viewed[/B]</name>
+
+<link>$doregex[makelist]</link>
+
+<thumbnail>url to thumb</thumbnail>
+
+<regex>
+
+<name>makelist</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist.param1][/COLOR]-[COLOR red]Rank:[makelist.param4][/COLOR]</title>
+
+<link>$doregex[makelist2]</link>
+
+<thumbnail>[makelist.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[<li data-name="(.+?)">.*\n.*\n.+href="(.+?)".*\n.+original="(.+?)".*\n.*\n.*\n.+Stat">(.+?)<]]></expres>
+
+<page>https://www.tnaflix.com/channels/all/most-viewed/32/all</page>
+
+</regex>
+
+<regex>
+
+<name>makelist2</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist2.param1][/COLOR]</title>
+
+<link>$doregex[cosmix]</link>
+
+<thumbnail>[makelist2.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[data-name='(.+?)' >.*\n.+href='(.+?)'.*\n.+original='(.+?)']]></expres>
+
+<page>https://www.tnaflix.com[makelist.param2]/videos</page>
+
+</regex>
+
+<regex>
+
+<name>cosmix</name>
+
+<expres><![CDATA[<meta itemprop="contentUrl" content="(.+?)" \/>]]></expres>
+
+<page>https://www.tnaflix.com[makelist2.param2]</page>
+
+</regex>
+
+</item>
+
+
+
+<item>
+
+<name>[B]Networks By Rank most-viewed[/B]</name>
+
+<link>$doregex[makelist]</link>
+
+<thumbnail>url to thumb</thumbnail>
+
+<regex>
+
+<name>makelist</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist.param1][/COLOR]-[COLOR red]Rank:[makelist.param4][/COLOR]</title>
+
+<link>$doregex[makelist2]</link>
+
+<thumbnail>[makelist.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[<li data-name="(.+?)">.*\n.*\n.+href="(.+?)".*\n.+original="(.+?)".*\n.*\n.*\n.+Stat">(.+?)<]]></expres>
+
+<page>https://www.tnaflix.com/channels/all/most-viewed/33/all</page>
+
+</regex>
+
+<regex>
+
+<name>makelist2</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist2.param1][/COLOR]</title>
+
+<link>$doregex[cosmix]</link>
+
+<thumbnail>[makelist2.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[data-name='(.+?)' >.*\n.+href='(.+?)'.*\n.+original='(.+?)']]></expres>
+
+<page>https://www.tnaflix.com[makelist.param2]/videos</page>
+
+</regex>
+
+<regex>
+
+<name>cosmix</name>
+
+<expres><![CDATA[<meta itemprop="contentUrl" content="(.+?)" \/>]]></expres>
+
+<page>https://www.tnaflix.com[makelist2.param2]</page>
+
+</regex>
+
+</item>
+
+
+
+<item>
+
+<name>[B]Networks By Rank most-viewed[/B]</name>
+
+<link>$doregex[makelist]</link>
+
+<thumbnail>url to thumb</thumbnail>
+
+<regex>
+
+<name>makelist</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist.param1][/COLOR]-[COLOR red]Rank:[makelist.param4][/COLOR]</title>
+
+<link>$doregex[makelist2]</link>
+
+<thumbnail>[makelist.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[<li data-name="(.+?)">.*\n.*\n.+href="(.+?)".*\n.+original="(.+?)".*\n.*\n.*\n.+Stat">(.+?)<]]></expres>
+
+<page>https://www.tnaflix.com/channels/all/most-viewed/34/all</page>
+
+</regex>
+
+<regex>
+
+<name>makelist2</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist2.param1][/COLOR]</title>
+
+<link>$doregex[cosmix]</link>
+
+<thumbnail>[makelist2.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[data-name='(.+?)' >.*\n.+href='(.+?)'.*\n.+original='(.+?)']]></expres>
+
+<page>https://www.tnaflix.com[makelist.param2]/videos</page>
+
+</regex>
+
+<regex>
+
+<name>cosmix</name>
+
+<expres><![CDATA[<meta itemprop="contentUrl" content="(.+?)" \/>]]></expres>
+
+<page>https://www.tnaflix.com[makelist2.param2]</page>
+
+</regex>
+
+</item>
+
+
+
+<item>
+
+<name>[B]Networks By Rank most-viewed[/B]</name>
+
+<link>$doregex[makelist]</link>
+
+<thumbnail>url to thumb</thumbnail>
+
+<regex>
+
+<name>makelist</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist.param1][/COLOR]-[COLOR red]Rank:[makelist.param4][/COLOR]</title>
+
+<link>$doregex[makelist2]</link>
+
+<thumbnail>[makelist.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[<li data-name="(.+?)">.*\n.*\n.+href="(.+?)".*\n.+original="(.+?)".*\n.*\n.*\n.+Stat">(.+?)<]]></expres>
+
+<page>https://www.tnaflix.com/channels/all/most-viewed/35/all</page>
+
+</regex>
+
+<regex>
+
+<name>makelist2</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist2.param1][/COLOR]</title>
+
+<link>$doregex[cosmix]</link>
+
+<thumbnail>[makelist2.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[data-name='(.+?)' >.*\n.+href='(.+?)'.*\n.+original='(.+?)']]></expres>
+
+<page>https://www.tnaflix.com[makelist.param2]/videos</page>
+
+</regex>
+
+<regex>
+
+<name>cosmix</name>
+
+<expres><![CDATA[<meta itemprop="contentUrl" content="(.+?)" \/>]]></expres>
+
+<page>https://www.tnaflix.com[makelist2.param2]</page>
+
+</regex>
+
+</item>
+
+
+
+<item>
+
+<name>[B]Networks By Rank most-viewed[/B]</name>
+
+<link>$doregex[makelist]</link>
+
+<thumbnail>url to thumb</thumbnail>
+
+<regex>
+
+<name>makelist</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist.param1][/COLOR]-[COLOR red]Rank:[makelist.param4][/COLOR]</title>
+
+<link>$doregex[makelist2]</link>
+
+<thumbnail>[makelist.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[<li data-name="(.+?)">.*\n.*\n.+href="(.+?)".*\n.+original="(.+?)".*\n.*\n.*\n.+Stat">(.+?)<]]></expres>
+
+<page>https://www.tnaflix.com/channels/all/most-viewed/36/all</page>
+
+</regex>
+
+<regex>
+
+<name>makelist2</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist2.param1][/COLOR]</title>
+
+<link>$doregex[cosmix]</link>
+
+<thumbnail>[makelist2.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[data-name='(.+?)' >.*\n.+href='(.+?)'.*\n.+original='(.+?)']]></expres>
+
+<page>https://www.tnaflix.com[makelist.param2]/videos</page>
+
+</regex>
+
+<regex>
+
+<name>cosmix</name>
+
+<expres><![CDATA[<meta itemprop="contentUrl" content="(.+?)" \/>]]></expres>
+
+<page>https://www.tnaflix.com[makelist2.param2]</page>
+
+</regex>
+
+</item>
+
+
+
+<item>
+
+<name>[B]Networks By Rank most-viewed[/B]</name>
+
+<link>$doregex[makelist]</link>
+
+<thumbnail>url to thumb</thumbnail>
+
+<regex>
+
+<name>makelist</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist.param1][/COLOR]-[COLOR red]Rank:[makelist.param4][/COLOR]</title>
+
+<link>$doregex[makelist2]</link>
+
+<thumbnail>[makelist.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[<li data-name="(.+?)">.*\n.*\n.+href="(.+?)".*\n.+original="(.+?)".*\n.*\n.*\n.+Stat">(.+?)<]]></expres>
+
+<page>https://www.tnaflix.com/channels/all/most-viewed/37/all</page>
+
+</regex>
+
+<regex>
+
+<name>makelist2</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist2.param1][/COLOR]</title>
+
+<link>$doregex[cosmix]</link>
+
+<thumbnail>[makelist2.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[data-name='(.+?)' >.*\n.+href='(.+?)'.*\n.+original='(.+?)']]></expres>
+
+<page>https://www.tnaflix.com[makelist.param2]/videos</page>
+
+</regex>
+
+<regex>
+
+<name>cosmix</name>
+
+<expres><![CDATA[<meta itemprop="contentUrl" content="(.+?)" \/>]]></expres>
+
+<page>https://www.tnaflix.com[makelist2.param2]</page>
+
+</regex>
+
+</item>
+
+
+
+<item>
+
+<name>[B]Networks By Rank most-viewed[/B]</name>
+
+<link>$doregex[makelist]</link>
+
+<thumbnail>url to thumb</thumbnail>
+
+<regex>
+
+<name>makelist</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist.param1][/COLOR]-[COLOR red]Rank:[makelist.param4][/COLOR]</title>
+
+<link>$doregex[makelist2]</link>
+
+<thumbnail>[makelist.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[<li data-name="(.+?)">.*\n.*\n.+href="(.+?)".*\n.+original="(.+?)".*\n.*\n.*\n.+Stat">(.+?)<]]></expres>
+
+<page>https://www.tnaflix.com/channels/all/most-viewed/38/all</page>
+
+</regex>
+
+<regex>
+
+<name>makelist2</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist2.param1][/COLOR]</title>
+
+<link>$doregex[cosmix]</link>
+
+<thumbnail>[makelist2.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[data-name='(.+?)' >.*\n.+href='(.+?)'.*\n.+original='(.+?)']]></expres>
+
+<page>https://www.tnaflix.com[makelist.param2]/videos</page>
+
+</regex>
+
+<regex>
+
+<name>cosmix</name>
+
+<expres><![CDATA[<meta itemprop="contentUrl" content="(.+?)" \/>]]></expres>
+
+<page>https://www.tnaflix.com[makelist2.param2]</page>
+
+</regex>
+
+</item>
+
+
+
+<item>
+
+<name>[B]Networks By Rank most-viewed[/B]</name>
+
+<link>$doregex[makelist]</link>
+
+<thumbnail>url to thumb</thumbnail>
+
+<regex>
+
+<name>makelist</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist.param1][/COLOR]-[COLOR red]Rank:[makelist.param4][/COLOR]</title>
+
+<link>$doregex[makelist2]</link>
+
+<thumbnail>[makelist.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[<li data-name="(.+?)">.*\n.*\n.+href="(.+?)".*\n.+original="(.+?)".*\n.*\n.*\n.+Stat">(.+?)<]]></expres>
+
+<page>https://www.tnaflix.com/channels/all/most-viewed/39/all</page>
+
+</regex>
+
+<regex>
+
+<name>makelist2</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist2.param1][/COLOR]</title>
+
+<link>$doregex[cosmix]</link>
+
+<thumbnail>[makelist2.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[data-name='(.+?)' >.*\n.+href='(.+?)'.*\n.+original='(.+?)']]></expres>
+
+<page>https://www.tnaflix.com[makelist.param2]/videos</page>
+
+</regex>
+
+<regex>
+
+<name>cosmix</name>
+
+<expres><![CDATA[<meta itemprop="contentUrl" content="(.+?)" \/>]]></expres>
+
+<page>https://www.tnaflix.com[makelist2.param2]</page>
+
+</regex>
+
+</item>
+
+
+
+<item>
+
+<name>[B]Networks By Rank most-viewed[/B]</name>
+
+<link>$doregex[makelist]</link>
+
+<thumbnail>url to thumb</thumbnail>
+
+<regex>
+
+<name>makelist</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist.param1][/COLOR]-[COLOR red]Rank:[makelist.param4][/COLOR]</title>
+
+<link>$doregex[makelist2]</link>
+
+<thumbnail>[makelist.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[<li data-name="(.+?)">.*\n.*\n.+href="(.+?)".*\n.+original="(.+?)".*\n.*\n.*\n.+Stat">(.+?)<]]></expres>
+
+<page>https://www.tnaflix.com/channels/all/most-viewed/40/all</page>
+
+</regex>
+
+<regex>
+
+<name>makelist2</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist2.param1][/COLOR]</title>
+
+<link>$doregex[cosmix]</link>
+
+<thumbnail>[makelist2.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[data-name='(.+?)' >.*\n.+href='(.+?)'.*\n.+original='(.+?)']]></expres>
+
+<page>https://www.tnaflix.com[makelist.param2]/videos</page>
+
+</regex>
+
+<regex>
+
+<name>cosmix</name>
+
+<expres><![CDATA[<meta itemprop="contentUrl" content="(.+?)" \/>]]></expres>
+
+<page>https://www.tnaflix.com[makelist2.param2]</page>
+
+</regex>
+
+</item>
+
+
+
+<item>
+
+<name>[B]Networks By Rank most-viewed[/B]</name>
+
+<link>$doregex[makelist]</link>
+
+<thumbnail>url to thumb</thumbnail>
+
+<regex>
+
+<name>makelist</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist.param1][/COLOR]-[COLOR red]Rank:[makelist.param4][/COLOR]</title>
+
+<link>$doregex[makelist2]</link>
+
+<thumbnail>[makelist.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[<li data-name="(.+?)">.*\n.*\n.+href="(.+?)".*\n.+original="(.+?)".*\n.*\n.*\n.+Stat">(.+?)<]]></expres>
+
+<page>https://www.tnaflix.com/channels/all/most-viewed/41/all</page>
+
+</regex>
+
+<regex>
+
+<name>makelist2</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist2.param1][/COLOR]</title>
+
+<link>$doregex[cosmix]</link>
+
+<thumbnail>[makelist2.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[data-name='(.+?)' >.*\n.+href='(.+?)'.*\n.+original='(.+?)']]></expres>
+
+<page>https://www.tnaflix.com[makelist.param2]/videos</page>
+
+</regex>
+
+<regex>
+
+<name>cosmix</name>
+
+<expres><![CDATA[<meta itemprop="contentUrl" content="(.+?)" \/>]]></expres>
+
+<page>https://www.tnaflix.com[makelist2.param2]</page>
+
+</regex>
+
+</item>
+
+
+
+<item>
+
+<name>[B]Networks By Rank most-viewed[/B]</name>
+
+<link>$doregex[makelist]</link>
+
+<thumbnail>url to thumb</thumbnail>
+
+<regex>
+
+<name>makelist</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist.param1][/COLOR]-[COLOR red]Rank:[makelist.param4][/COLOR]</title>
+
+<link>$doregex[makelist2]</link>
+
+<thumbnail>[makelist.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[<li data-name="(.+?)">.*\n.*\n.+href="(.+?)".*\n.+original="(.+?)".*\n.*\n.*\n.+Stat">(.+?)<]]></expres>
+
+<page>https://www.tnaflix.com/channels/all/most-viewed/42/all</page>
+
+</regex>
+
+<regex>
+
+<name>makelist2</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist2.param1][/COLOR]</title>
+
+<link>$doregex[cosmix]</link>
+
+<thumbnail>[makelist2.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[data-name='(.+?)' >.*\n.+href='(.+?)'.*\n.+original='(.+?)']]></expres>
+
+<page>https://www.tnaflix.com[makelist.param2]/videos</page>
+
+</regex>
+
+<regex>
+
+<name>cosmix</name>
+
+<expres><![CDATA[<meta itemprop="contentUrl" content="(.+?)" \/>]]></expres>
+
+<page>https://www.tnaflix.com[makelist2.param2]</page>
+
+</regex>
+
+</item>
+
+
+
+<item>
+
+<name>[B]Networks By Rank most-viewed[/B]</name>
+
+<link>$doregex[makelist]</link>
+
+<thumbnail>url to thumb</thumbnail>
+
+<regex>
+
+<name>makelist</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist.param1][/COLOR]-[COLOR red]Rank:[makelist.param4][/COLOR]</title>
+
+<link>$doregex[makelist2]</link>
+
+<thumbnail>[makelist.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[<li data-name="(.+?)">.*\n.*\n.+href="(.+?)".*\n.+original="(.+?)".*\n.*\n.*\n.+Stat">(.+?)<]]></expres>
+
+<page>https://www.tnaflix.com/channels/all/most-viewed/43/all</page>
+
+</regex>
+
+<regex>
+
+<name>makelist2</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist2.param1][/COLOR]</title>
+
+<link>$doregex[cosmix]</link>
+
+<thumbnail>[makelist2.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[data-name='(.+?)' >.*\n.+href='(.+?)'.*\n.+original='(.+?)']]></expres>
+
+<page>https://www.tnaflix.com[makelist.param2]/videos</page>
+
+</regex>
+
+<regex>
+
+<name>cosmix</name>
+
+<expres><![CDATA[<meta itemprop="contentUrl" content="(.+?)" \/>]]></expres>
+
+<page>https://www.tnaflix.com[makelist2.param2]</page>
+
+</regex>
+
+</item>
+
+
+
+<item>
+
+<name>[B]Networks By Rank most-viewed[/B]</name>
+
+<link>$doregex[makelist]</link>
+
+<thumbnail>url to thumb</thumbnail>
+
+<regex>
+
+<name>makelist</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist.param1][/COLOR]-[COLOR red]Rank:[makelist.param4][/COLOR]</title>
+
+<link>$doregex[makelist2]</link>
+
+<thumbnail>[makelist.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[<li data-name="(.+?)">.*\n.*\n.+href="(.+?)".*\n.+original="(.+?)".*\n.*\n.*\n.+Stat">(.+?)<]]></expres>
+
+<page>https://www.tnaflix.com/channels/all/most-viewed/44/all</page>
+
+</regex>
+
+<regex>
+
+<name>makelist2</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist2.param1][/COLOR]</title>
+
+<link>$doregex[cosmix]</link>
+
+<thumbnail>[makelist2.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[data-name='(.+?)' >.*\n.+href='(.+?)'.*\n.+original='(.+?)']]></expres>
+
+<page>https://www.tnaflix.com[makelist.param2]/videos</page>
+
+</regex>
+
+<regex>
+
+<name>cosmix</name>
+
+<expres><![CDATA[<meta itemprop="contentUrl" content="(.+?)" \/>]]></expres>
+
+<page>https://www.tnaflix.com[makelist2.param2]</page>
+
+</regex>
+
+</item>
+
+
+
+<item>
+
+<name>[B]Networks By Rank most-viewed[/B]</name>
+
+<link>$doregex[makelist]</link>
+
+<thumbnail>url to thumb</thumbnail>
+
+<regex>
+
+<name>makelist</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist.param1][/COLOR]-[COLOR red]Rank:[makelist.param4][/COLOR]</title>
+
+<link>$doregex[makelist2]</link>
+
+<thumbnail>[makelist.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[<li data-name="(.+?)">.*\n.*\n.+href="(.+?)".*\n.+original="(.+?)".*\n.*\n.*\n.+Stat">(.+?)<]]></expres>
+
+<page>https://www.tnaflix.com/channels/all/most-viewed/45/all</page>
+
+</regex>
+
+<regex>
+
+<name>makelist2</name>
+
+<listrepeat><![CDATA[
+
+<title>[COLOR yellow][makelist2.param1][/COLOR]</title>
+
+<link>$doregex[cosmix]</link>
+
+<thumbnail>[makelist2.param3]</thumbnail>
+
+]]></listrepeat>
+
+<expres><![CDATA[data-name='(.+?)' >.*\n.+href='(.+?)'.*\n.+original='(.+?)']]></expres>
+
+<page>https://www.tnaflix.com[makelist.param2]/videos</page>
+
+</regex>
+
+<regex>
+
+<name>cosmix</name>
+
+<expres><![CDATA[<meta itemprop="contentUrl" content="(.+?)" \/>]]></expres>
+
+<page>https://www.tnaflix.com[makelist2.param2]</page>
+
+</regex>
+
+</item>
+
+
+
