@@ -11,25 +11,3 @@
   <title>Porn VOD</title>
   <link>https://raw.githubusercontent.com/Mr-invisibles/resources/master/tRmKGjTbr/xmls/porn/porn2.m3u</link>
 </plugin>
-
-<dir>
-  <name>Porn Networks</name>
-  <link>https://raw.githubusercontent.com/Mr-invisibles/resources/master/tRmKGjTbr/xmls/porn/pornnet.xml</link>
-  <animated_thumbnail></animated_thumbnail>
-  <thumbnail></thumbnail>
-  <animated_fanart></animated_fanart>
-  <fanart></fanart>
-</dir>
-
-<dir>
-  <name>mPorno</name>
-  <link>https://raw.githubusercontent.com/Mr-invisibles/resources/master/tRmKGjTbr/xmls/porn/mporno.xml</link>
-  <animated_thumbnail></animated_thumbnail>
-  <thumbnail></thumbnail>
-  <animated_fanart></animated_fanart>
-  <fanart></fanart>
-</dir>
-<plugin>
-  <title>Porn Fluxus</title>
-  <link>https://raw.githubusercontent.com/Mr-invisibles/resources/master/tRmKGjTbr/xmls/porn/flux.m3u</link>
-</plugin>
