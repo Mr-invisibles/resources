@@ -1,0 +1,16 @@
+<dir>
+	<name>One Click Kids</name>
+	<link>http://miniaturelife67.co.uk/frank/ghost/ghostxmls/xmls1/minions.xml</link>
+</dir>
+<dir>
+	<title>One Click Disney</title>
+	<link>http://miniaturelife67.co.uk/frank/ghost/ghostxmls/xmls1/disney.xml</link>
+	<thumbnail>http://miniaturelife67.co.uk/frank/artghost/kids.png</thumbnail>
+	<fanart>http://miniaturelife67.co.uk/frank/artghost/kids.jpg</fanart>
+</dir>
+<dir>
+	<title>Random Kids</title>
+	<link>http://miniaturelife67.co.uk/frank/ghost/ghostxmls/xmls1/indexerkids.xml</link>
+	<thumbnail>http://miniaturelife67.co.uk/frank/artghost/kids.png</thumbnail>
+	<fanart>http://miniaturelife67.co.uk/frank/artghost/kids.jpg</fanart>
+</dir>

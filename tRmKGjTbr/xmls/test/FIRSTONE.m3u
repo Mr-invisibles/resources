@@ -1,0 +1,169 @@
+#EXTM3U
+#EXTINF:-0,[COLOR=FFFFFF00]***********************FIRSTONE TV WORKS UP AND DOWN NEEDS NEW SCRIPT ***********************************************[/COLOR]
+#EXTINF:-1,/CBS-85
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/CBS-85
+#EXTINF:-1,ABC--83
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/ABC--83
+#EXTINF:-1,ESPN-40
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/ESPN-40
+#EXTINF:-1,)/NBC-54
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/NBC-54
+#EXTINF:-1,Discovery-Channel-37
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/Discovery-Channel-37
+#EXTINF:-1,Home-Box-Office-(HBO)--96
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/Home-Box-Office-(HBO)--96
+#EXTINF:-1,USA-Network-92
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/USA-Network-92
+#EXTINF:-1,NBA-TV-53
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/NBA-TV-53
+#EXTINF:-1,Showtime-60
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/Showtime-60
+#EXTINF:-1,AMC-25
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/AMC-25
+#EXTINF:-1,AMC-25
+https://lhr-2.firstonetv.net:4434/hls/35f5d9f24267a64bd4d9044697d43b0e/1543114284/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352d35392d3232312d3135362e6d6264722e63662f7032702f63303337316533356132623332343466356564646137393437313732643935342e6d3375383f73743d555f4f6a415030554e567a6269516a5f6f556c72685126653d31353433313238363834.m3u8
+#EXTINF:-1,MSNBC-66
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/MSNBC-66
+#EXTINF:-1,The-CW-Television-Network-35
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/The-CW-Television-Network-35
+#EXTINF:-1,A+E--21
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/A+E--21
+#EXTINF:-1,WWE-Network-67
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/WWE-Network-67
+#EXTINF:-1,NFL-Network-56
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/NFL-Network-56
+#EXTINF:-1,History-48
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/History-48
+#EXTINF:-1,ESPN-2-41
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/ESPN-2-41
+#EXTINF:-1,Golf-Channel-44
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/Golf-Channel-44
+#EXTINF:-1,Syfy-63
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/Syfy-63
+#EXTINF:-1,/HGTV-47
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/HGTV-47
+#EXTINF:-1,National-Geographic--52
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/National-Geographic--52
+#EXTINF:-1,Animal-Planet-26
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/Animal-Planet-26
+#EXTINF:-1,FX-91
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/FX-91
+#EXTINF:-1,NBCSN--55
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/NBCSN--55
+#EXTINF:-1,Starz-62
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/Starz-62
+#EXTINF:-1,/ESPN-News-87
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/ESPN-News-87
+#EXTINF:-1,Showtime-2-102
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/Showtime-2-102
+#EXTINF:-1,TLC-65
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/TLC-65
+#EXTINF:-1,Bravo-30
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/Bravo-30
+#EXTINF:-1,HBO-Signature-107
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/HBO-Signature-107
+#EXTINF:-1,HBO-Comedy-108
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/HBO-Comedy-108
+#EXTINF:-1,Showtime-2-102
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/Showtime-2-102
+#EXTINF:-1,ESPN-News-87
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/ESPN-News-87
+#EXTINF:-1,Fox-Sports-1-(FS1)-79
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/Fox-Sports-1-(FS1)-79
+#EXTINF:-1,Fox-88
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/Fox-88
+#EXTINF:-1,PBS-81
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/PBS-81
+#EXTINF:-1,Freeform-24
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/Freeform-24
+#EXTINF:-1,/MLB-Network-51
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/MLB-Network-51
+#EXTINF:-1,Starz-Edge-105
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/Starz-Edge-105
+#EXTINF:-1,ABC-News-5
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/ABC-News-5
+#EXTINF:-1,CBS-News-(CBSN)-1
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/CBS-News-(CBSN)-1
+#EXTINF:-1,
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/FXX-101
+#EXTINF:-1,The-Weather-Channel-111
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/The-Weather-Channel-111
+#EXTINF:-1,CNBC-94
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/CNBC-94
+#EXTINF:-1,SundanceTV-104
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/SundanceTV-104
+
+#EXTINF:-1,KTLA--49
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/WGN-TV-71
+#EXTINF:-1,KTLA--49
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/WeatherNation-TV-10
+#EXTINF:-1,KTLA--49
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/KTLA--49
+#EXTINF:-1,RT-America-59
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/RT-America-59
+#EXTINF:-1,NASA-TV-12
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/NASA-TV-12
+#EXTINF:-1, ITV1--21
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-Kingdom/ITV1--21
+#EXTINF:-1, Movies4Men-26
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-Kingdom/Movies4Men-26
+#EXTINF:-1, BBC-One--4
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-Kingdom/BBC-One--4
+#EXTINF:-1, Eurosport-1--34
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-Kingdom/Eurosport-1--34
+#EXTINF:-1, BBC-Two-5
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-Kingdom/BBC-Two-5
+#EXTINF:-1, ITV2-22
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-Kingdom/ITV2-22
+#EXTINF:-1, Eurosport-2-35
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-Kingdom/Eurosport-2-35
+#EXTINF:-1, E!--79
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-Kingdom/E!--79
+#EXTINF:-1, ITV4-24
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-Kingdom/ITV4-24
+#EXTINF:-1, Gold-45
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-Kingdom/Gold-45
+#EXTINF:-1, Channel-4--11
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-Kingdom/Channel-4--11
+#EXTINF:-1, BBC-World-News-3
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-Kingdom/BBC-World-News-3
+#EXTINF:-1, MTV-Dance-58
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-Kingdom/MTV-Dance-58
+#EXTINF:-1, BBC-News-2
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-Kingdom/BBC-News-2
+#EXTINF:-1, MUTV-(Manchester-United-F.C.)-86
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-Kingdom/MUTV-(Manchester-United-F.C.)-86
+#EXTINF:-1, True-Movies-2-97
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-Kingdom/True-Movies-2-97
+#EXTINF:-1, MTV-85
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-Kingdom/MTV-85
+#EXTINF:-1, Channel-5--31
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-Kingdom/Channel-5--31
+#EXTINF:-1, E4-14
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-Kingdom/E4-14
+#EXTINF:-1, Premier-Sports-89
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-Kingdom/Premier-Sports-89
+#EXTINF:-1, Film4-16
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-Kingdom/Film4-16
+#EXTINF:-1, True-Movies-1-96
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-Kingdom/True-Movies-1-96
+#EXTINF:-1, Discovery-Channel--42
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-Kingdom/Discovery-Channel--42
+#EXTINF:-1, Disney-Channel-43
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-Kingdom/Disney-Channel-43
+#EXTINF:-1, Motorsport.tv--84
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-Kingdom/Motorsport.tv--84
+#EXTINF:-1, Investigation-Discovery-(ID)-73
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-Kingdom/Investigation-Discovery-(ID)-73
+#EXTINF:-1, More4--25
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-Kingdom/More4--25
+#EXTINF:-1, TSN 1
+hplugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=ttps://www.firstonetv.net/Live/Canada/The-Sports-Network-1-(TSN-1)-12
+#EXTINF:-1, TSN 2
+hplugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/Canada/The-Sports-Network-2-(TSN-2)-13
+#EXTINF:-1, TSN 3
+hplugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/Canada/The-Sports-Network-3-(TSN-3)-14
+#EXTINF:-1, RDS SPORTS
+hplugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/Canada/R%C3%A9seau-des-sports-(RDS)-16
+#EXTINF:-1, TVA
+hplugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/Canada/TVA--9

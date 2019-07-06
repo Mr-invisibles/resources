@@ -1,0 +1,435 @@
+#EXTM3U
+#EXTINF:-0,[COLOR=FFFFFF00]***********************BBC UK TV ***********************************************[/COLOR]
+
+
+#EXTINF:-1,eurosport
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.usagoals.nu/a/live-television/301/2/eurosport-1-live-stream/
+#EXTINF:-1,eurosport
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.usagoals.nu/a/live-television/321/2/eurosport-2-live-stream/
+#EXTINF:-1,SUPERSPORT4
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.usagoals.nu/a/live-television/1090/1/supersport-4-live-stream/
+#EXTINF:-1,SUPERSPORT3
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.usagoals.nu/a/live-television/30075/1/supersport-3-live-stream/
+#EXTINF:-1,SUPERSPORT2
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.usagoals.nu/a/live-television/765/1/supersport-2-live-stream/
+#EXTINF:-1,SUPERSPORT
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.usagoals.nu/a/live-television/760/1/supersport-live-stream/
+#EXTINF:-1,TRT
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.usagoals.nu/a/live-television/30205/1/trt-spor-live-stream/
+#EXTINF:-1,viasat-football
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.usagoals.nu/a/live-television/795/1/viasat-football-live-stream/
+#EXTINF:-1,viasat-hockey
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.usagoals.nu/a/live-television/298/1/viasat-hockey-live-stream/
+#EXTINF:-1,viasat-sport
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.usagoals.nu/a/live-television/297/1/viasat-sport-live-stream/
+#EXTINF:-1,fight club
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.usagoals.nu/a/live-television/730/1/fight-klub-live-stream/
+#EXTINF:-1,eir-sport-setanta
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.usagoals.nu/a/live-television/1220/1/eir-sport-setanta-live-stream/
+#EXTINF:-1,dubai sports
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.usagoals.nu/a/live-television/705/1/dubai-sports-3-live-stream/
+#EXTINF:-1,cdf-premium
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.usagoals.nu/a/live-television/1110/1/cdf-premium-live-stream/
+#EXTINF:-1,box-tv-
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.usagoals.nu/a/live-television/735/1/box-tv-live-stream/
+#EXTINF:-1,arena3 tv
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.usagoals.nu/a/live-television/755/1/arena-sport-3-live-stream/
+#EXTINF:-1,arena2 tv
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.usagoals.nu/a/live-television/750/1/arena-sport-2-live-stream/
+#EXTINF:-1,arena1 tv
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.usagoals.nu/a/live-television/745/1/arena-sport-1-live-stream/
+#EXTINF:-1,1 tv
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.usagoals.nu/a/live-television/800/1/1-tv-live-stream/
+#EXTINF:-1,england-premier-league
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.javafooty.com/highlights/england-premier-league/13-january-2019/tottenham-manchester-utd/
+#EXTINF:-1,discovery-
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://tvonlineaovivo.net/assistir-investigacao-discovery-ao-vivo/investigacao.php
+#EXTINF:-1,cartoon-network
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://tvonlineaovivo.net/assistir-cartoon-network-ao-vivo/Cartoon Network.php
+#EXTINF:-1,animal planet
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://tvonlineaovivo.net/assistir-animal-planet-ao-vivo/AnimalPlanet.php
+#EXTINF:-1,hbo plus
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://tvonlineaovivo.net/assistir-hbo-plus-ao-vivo/hboplus.php
+#EXTINF:-1,TEST STREAM
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/un?ch=boxnation
+#EXTINF:-1,TEST STREAM
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://tv.b-c-e.us/BTSportEurope.php
+#EXTINF:-1,TEST STREAM
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sharecast.eu/embed/live1-rbi6c
+h#EXTINF:-1,TEST STREAM
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=ttp://sharecast.eu/embed/live2-bipmr
+#EXTINF:-1,TEST STREAM
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sharecast.eu/embed/live3-qszlx
+#EXTINF:-1,TEST STREAM
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://live.b-c-e.us/Bein_Sports_Line1_HD.php
+#EXTINF:-1,TEST STREAM
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://live.b-c-e.us/Bein_Sports_Line2_HD.php
+#EXTINF:-1,TEST STREAM
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://live.b-c-e.us/Bein_Sports_Line3_HD.php
+#EXTINF:-1,TEST STREAM
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://live.b-c-e.us/Bein_Sports_Line4_HD.php
+#EXTINF:-1,TEST STREAM
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://tv.b-c-e.us/SkySports1UK.php
+#EXTINF:-1,TEST STREAM
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://tv.b-c-e.us/SkySports2UK.php
+#EXTINF:-1,TEST STREAM
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://tv.b-c-e.us/SkySports3UK.php
+#EXTINF:-1,TEST STREAM
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://tv.b-c-e.us/SkySports4UK.php
+#EXTINF:-1,TEST STREAM
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://tv.b-c-e.us/SkySports5UK.php
+#EXTINF:-1,TEST STREAM
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://tv.b-c-e.us/BTSport1.php
+#EXTINF:-1,TEST STREAM
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://tv.b-c-e.us/BTSport2.php
+#EXTINF:-1,TEST STREAM
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://tv.b-c-e.us/BTSportEurope.php
+#EXTINF:-1,TEST STREAM
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://tv.b-c-e.us/BTSportESPN.php
+
+#EXTINF:-0,[COLOR=FFFFFF00]***********************UK CHANNELS ***********************************************[/COLOR]
+
+
+
+#EXTINF:-1, FIGHTTIME
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=fighttime
+#EXTINF:-1, mlb_1
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=mlb_1
+#EXTINF:-1, RT
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=rt_us
+#EXTINF:-1, espn
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=hls.giize.comhd?ch=espn
+#EXTINF:-1, espnplus
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=hls.giize.comhd?ch=espnplus
+#EXTINF:-1, BLOOMBERG
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=b_us
+#EXTINF:-1, DW
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=dw_en
+#EXTINF:-1, SKY4
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=rt_us
+#EXTINF:-1, CNBC
+https://1674331492.rsc.cdn77.org/LS-ATL-54548-14/index.m3u8
+#EXTINF:-1, DW
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=dw_en
+#EXTINF:-1, SKY4
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=rt_us
+#EXTINF:-1, BBC 1
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=bbcone
+#EXTINF:-1, BBC 2
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=bbctwo
+#EXTINF:-1, BBC 3
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=bbcthree
+#EXTINF:-1, BBC 4
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=bbcfour
+#EXTINF:-1, CBBC
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=cbbc
+#EXTINF:-1, CBEEBIES
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=cbeebies
+#EXTINF:-1, BBCNEWS
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=bbcnews
+#EXTINF:-1, BBC PARLIAMENT
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=bbcparliament
+#EXTINF:-1, BBCCALBA
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=bbcalba
+#EXTINF:-1, SC4
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=s4c
+#EXTINF:-1, BBC WORLD
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=bbc_world
+#EXTINF:-1, SPIKE
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=spike
+#EXTINF:-1, CBS2
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=cbs2
+#EXTINF:-1, CBSNEWS
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=cbsnews
+#EXTINF:-1,WGN 9 
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=wgn9
+#EXTINF:-1, CH5
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=channel5
+#EXTINF:-1, CH4
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=channel4
+#EXTINF:-1, E4
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=e4
+#EXTINF:-1, MORE4
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=more4
+#EXTINF:-1, 4  SEVEN
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=4seven
+#EXTINF:-1, FILM4
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=film4
+#EXTINF:-1, ACTV
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=actv
+#EXTINF:-1, 5 SELECT
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=5select
+#EXTINF:-1, SPIKE
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=spike
+#EXTINF:-1, 5 STAR
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=5star
+#EXTINF:-1, 5 USA
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=5usa
+#EXTINF:-1, ITV
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=itv
+#EXTINF:-1, ITV 2
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=itv2
+#EXTINF:-1, ITV 3
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=itv3
+#EXTINF:-1, ITV 4
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=itv4
+#EXTINF:-1, ITVBE
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=itvbe
+#EXTINF:-1, WEATHER
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=weather
+#EXTINF:-1, CHEDDAR
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=cheddar
+#EXTINF:-1, BLOOMBERG
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=b_us
+#EXTINF:-1, NEWSMAX
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=newsmax
+#EXTINF:-1, WEATHER NATION
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=wn
+#EXTINF:-1, NASA PUBLIC
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=nasa_public
+#EXTINF:-1, NASA MEDIA
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=nasa_media
+#EXTINF:-1, NASA ISS
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=nasa_iss
+#EXTINF:-1, CNN
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=ch=1
+#EXTINF:-1, CNN
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=ch=2
+#EXTINF:-1, CNN
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=ch=3
+#EXTINF:-1, LAWCRIME
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=lawncrime
+#EXTINF:-1,THE BLAZE
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=theblaze
+#EXTINF:-1, CBSNEWS
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=cbsnews
+#EXTINF:-1, CBS9
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=cbs9
+#EXTINF:-1, CBS4
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=cbs4
+#EXTINF:-1, CBS47
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=cbs47
+#EXTINF:-1, antena3
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=http://hls.giize.com/a3?ch=antena3_ini
+#EXTINF:-1, ty 2
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=http://hls.giize.com/tve/la2_cat
+#EXTINF:-1, ch 2
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=http://www.ktvu.com/live
+#EXTINF:-1, cbs news
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=http://hls.giize.com/l1?ch=cbsnews
+#EXTINF:-1, abc news
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=http://hls.giize.com/l1?ch=abcnews
+#EXTINF:-1, RANDOM CHANNELS
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.kapuso.be/2018/12/onanay-december-28-2018.html
+#EXTINF:-1, RANDOM CHANNELS
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://livestream.com/accounts/27460990/events/8266920/player?autoPlay=true
+
+#EXTINF:-1, bignews
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/l1?ch=bignews
+#EXTINF:-1, citv
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=citv
+#EXTINF:-1, presstv
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/l1?ch=presstv
+#EXTINF:-1,tyt
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/hd3?ch=tyt
+#EXTINF:-1, RANDOM CHANNELS
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://livestream.com/accounts/27460990/events/8266920/player?autoPlay=true
+#EXTINF:-1, infowars
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/l1?ch=infowars
+#EXTINF:-1, bignews
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/l1?ch=bignews
+#EXTINF:-1, citv
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=citv
+#EXTINF:-1, presstv
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/l1?ch=presstv
+#EXTINF:-1,tyt
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/hd3?ch=tyt
+#EXTINF:-1, RANDOM CHANNELS
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://livestream.com/accounts/27460990/events/8266920/player?autoPlay=true
+#EXTINF:-1, infowars
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/l1?ch=infowars
+#EXTINF:-1, bignews
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/l1?ch=bignews
+#EXTINF:-1, citv
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=citv
+#EXTINF:-1, presstv
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/l1?ch=presstv
+#EXTINF:-1,tyt
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/hd3?ch=tyt
+#EXTINF:-1, RANDOM CHANNELS
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://livestream.com/accounts/27460990/events/8266920/player?autoPlay=true
+#EXTINF:-1, infowars
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/l1?ch=infowars
+#EXTINF:-1, bignews
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/l1?ch=bignews
+#EXTINF:-1, citv
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=citv
+#EXTINF:-1, presstv
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/l1?ch=presstv
+#EXTINF:-1,turbo
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/kr/kr?ch=turbo
+#EXTINF:-1, RANDOM CHANNELS
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://livestream.com/accounts/27460990/events/8266920/player?autoPlay=true
+#EXTINF:-1,discovery
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/us?ch=discovery
+
+ 
+
+
+#EXTINF:-1,horrorchannel
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=horrorchannel
+#EXTINF:-1,nratv
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/l1?ch=nratv
+#EXTINF:-1,et
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/l1?ch=et
+#EXTINF:-1,sunchannel
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/hd3?ch=sunchannel
+#EXTINF:-1,mycomedy
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/l1?ch=mycomedy
+#EXTINF:-1,americanhorr
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/l1?ch=americanhorr
+#EXTINF:-1,drama
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=drama
+#EXTINF:-1,poptv
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/p1?ch=poptv
+#EXTINF:-1,=pbskids1
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/p2?ch=pbskids1
+#EXTINF:-1,=pbskids2
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/p2?ch=pbskids2
+#EXTINF:-1,=pbskids3
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/p2?ch=pbskids3
+#EXTINF:-1,mellotv
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/l1?ch=mellotv
+#EXTINF:-1,ifilm_en
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/if?ch=ifilm_en
+#EXTINF:-1,channel
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/hallmark?ch=channel
+#EXTINF:-1,movies
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/hallmark?ch=movies
+#EXTINF:-1,=espn
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/un?ch=espn
+#EXTINF:-1,eurosport
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/un?ch=eurosport
+#EXTINF:-1,
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/un?ch=eurosport2
+#EXTINF:-1,skf1
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/un?ch=skf1
+#EXTINF:-1,beinsports11
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/un?ch=beinsports11
+#EXTINF:-1,beinsports11
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/un?ch=beinsports12
+#EXTINF:-1,skyaction
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/un?ch=skyaction
+#EXTINF:-1,atlantic
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/un?ch=atlantic
+#EXTINF:-1,=comedy
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/un?ch=comedy
+#EXTINF:-1,crime
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/un?ch=crime
+#EXTINF:-1,disney
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/un?ch=disney
+#EXTINF:-1,family
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/un?ch=family
+#EXTINF:-1,premiere
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/un?ch=premiere
+#EXTINF:-1,select
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/un?ch=select
+#EXTINF:-1,natgeo
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/p1?ch=space
+#EXTINF:-1,space
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/un?ch=natgeo
+#EXTINF:-1,history
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/un?ch=history
+#EXTINF:-1,sonymovies
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=sonymovies
+#EXTINF:-1,sonycrime
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=sonycrime
+#EXTINF:-1,truemovies
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=truemovies
+#EXTINF:-1,trueentertainment
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=trueentertainment
+#EXTINF:-1,movies4men
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=movies4men
+#EXTINF:-1,tinypop
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=tinypop
+#EXTINF:-1,popmax
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=popmax
+#EXTINF:-1,pop
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/tvt?ch=pop
+#EXTINF:-1,motorstv
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/un?ch=motorstv
+#EXTINF:-1,ginx
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/p1?ch=ginx
+#EXTINF:-1,allsports
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/l1?ch=allsports
+#EXTINF:-1,deportv
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/l1?ch=deportv
+#EXTINF:-1,mutv
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/p1?ch=mutv
+#EXTINF:-1,lfctv
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/un?ch=lfctv
+#EXTINF:-1,chelseatv
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/p1?ch=chelseatv
+#EXTINF:-1,pac12_bayarea
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/l3?ch=pac12_bayarea
+#EXTINF:-1,olympic_1
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/l1?ch=olympic_1
+#EXTINF:-1,olympic_1
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/l1?ch=olympic_2
+#EXTINF:-1,olympic_1
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/l1?ch=olympic_3
+#EXTINF:-1,olympic_1
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/l1?ch=olympic_4
+#EXTINF:-1,olympic_1
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/l1?ch=olympic_5
+#EXTINF:-1,cdo
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/l1?ch=cdo
+#EXTINF:-1,stadium
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/hd3?ch=stadium
+#EXTINF:-1,insight
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/hd3?ch=insight
+#EXTINF:-1,redbull
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/l1?ch=redbull
+#EXTINF:-1,wwetv
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/un?ch=wwetv
+#EXTINF:-1,fighttime
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/l1?ch=fighttime
+#EXTINF:-1,combatgo
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/hd3?ch=combatgo
+#EXTINF:-1,setantasports
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/un?ch=setantasports
+#EXTINF:-1,boxnation
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/un?ch=boxnation
+#EXTINF:-1,=sk4
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/un?ch=sk4
+#EXTINF:-1,mlb_1
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/l1?ch=mlb_1
+#EXTINF:-1,mlb_1
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/l1?ch=mlb_2
+#EXTINF:-1,nflnetwork
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/un?ch=nflnetwork
+#EXTINF:-1,nbatv
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/un?ch=nbatv
+#EXTINF:-1,tsn
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/un?ch=tsn
+#EXTINF:-1,tsn
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/un?ch=tsn2
+#EXTINF:-1,bt1
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/un?ch=bt1
+#EXTINF:-1,bt1
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/un?ch=bt2
+#EXTINF:-1,bt1
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/un?ch=bt3
+#EXTINF:-1,bt1
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/un?ch=bt4
+#EXTINF:-1,sk1
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/un?ch=sk1
+#EXTINF:-1,sk1
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/un?ch=sk2
+#EXTINF:-1,sk1
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/un?ch=sk3
+#EXTINF:-1,foxsports1
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/un?ch=foxsports1
+#EXTINF:-1,foxsports2
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hls.giize.com/un?ch=foxsports2
+

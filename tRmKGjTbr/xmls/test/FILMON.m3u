@@ -1,0 +1,98 @@
+
+#EXTM3U
+#EXTINF:-0,[COLOR=red]***********************FILMON BOXING AND OUTDOORS ***********************************************[/COLOR]
+
+#EXTINF:-1 test tvg-logo="http://i.imgur.com/pVYoNhX.jpg" ,hollywood-show-live
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/hollywood-show-live
+#EXTINF:-1 test tvg-logo="http://i.imgur.com/pVYoNhX.jpg" ,inside-the-ring
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/inside-the-ring
+#EXTINF:-1 test tvg-logo="http://i.imgur.com/pVYoNhX.jpg" ,the-goldenboy-channel
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/golden-boy-channel
+#EXTINF:-1 test tvg-logo="http://i.imgur.com/pVYoNhX.jpg" ,pugilism-tv
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/pugilism-tv
+#EXTINF:-1 test tvg-logo="http://i.imgur.com/pVYoNhX.jpg" ,fighting-athletes-network
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/fighting-athletes-network
+#EXTINF:-1 test tvg-logo="http://i.imgur.com/pVYoNhX.jpg" ,live-boxing
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/live-boxing
+#EXTINF:-1 test tvg-logo="http://i.imgur.com/pVYoNhX.jpg" ,armed-forces-boxing
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/armed-forces-boxing
+#EXTINF:-1 test tvg-logo="http://i.imgur.com/pVYoNhX.jpg" ,gfl-combat-Sport
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/gfl-combat-Sport
+#EXTINF:-1 test tvg-logo="http://i.imgur.com/pVYoNhX.jpg" ,ppv-celebrity-fight
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/ppv-celebrity-fight
+#EXTINF:-1 test tvg-logo="http://i.imgur.com/pVYoNhX.jpg" ,storytrender-nature
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/storytrender-nature
+#EXTINF:-1 test tvg-logo="http://i.imgur.com/pVYoNhX.jpg" ,/bayou-country-outdoors
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/bayou-country-outdoors
+#EXTINF:-1 test tvg-logo="http://i.imgur.com/pVYoNhX.jpg" ,student-of-the-gun
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/student-of-the-gun
+#EXTINF:-1 test tvg-logo="http://i.imgur.com/pVYoNhX.jpg" ,ultimate-outdoors
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/ultimate-outdoors
+#EXTINF:-1 test tvg-logo="http://i.imgur.com/pVYoNhX.jpg" ,wilderness-channel
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/wilderness-channel
+#EXTINF:-1 test tvg-logo="http://i.imgur.com/pVYoNhX.jpg" ,raceline-tv
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/raceline-tv
+#EXTINF:-1 test tvg-logo="http://i.imgur.com/pVYoNhX.jpg" ,race-central-tv
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/race-central-tv
+#EXTINF:-1 test tvg-logo="http://i.imgur.com/pVYoNhX.jpg" ,channel/honda-hpd
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/honda-hpd
+#EXTINF:-1 test tvg-logo="http://i.imgur.com/pVYoNhX.jpg" ,torque-and-tush
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/torque-and-tush
+#EXTINF:-1 test tvg-logo="http://i.imgur.com/pVYoNhX.jpg" ,itv
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/itv_1
+#EXTINF:-1 test tvg-logo="http://i.imgur.com/pVYoNhX.jpg" ,auto-channel
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/auto-channel
+#EXTINF:-1 test tvg-logo="http://i.imgur.com/pVYoNhX.jpg" ,the-romance
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/the-romance
+#EXTINF:-1 test tvg-logo="http://i.imgur.com/pVYoNhX.jpg" ,motorz
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/motorz
+#EXTINF:-1 test tvg-logo="http://i.imgur.com/pVYoNhX.jpg" ,steel-dreams
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/steel-dreams
+#EXTINF:-1 test tvg-logo="http://i.imgur.com/pVYoNhX.jpg" ,distant-roads
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/distant-roads
+#EXTINF:-1 test tvg-logo="http://i.imgur.com/pVYoNhX.jpg" ,charlie-mooer-no-offense
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/charlie-mooer-no-offense
+#EXTINF:-1 test tvg-logo="http://i.imgur.com/pVYoNhX.jpg" ,kung-fu-classics
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/kung-fu-classics
+
+
+
+#EXTINF:-1,########*******************************FILMON COMEDY****************************************** ########
+#EXTINF:-1 test tvg-logo="http://i.imgur.com/pVYoNhX.jpg" ,lumbfilm-comedy
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/lumbfilm-comedy
+#EXTINF:-1 test tvg-logo="http://i.imgur.com/pVYoNhX.jpg" ,filmon-comedy-classics
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/filmon-comedy-classics
+#EXTINF:-1 test tvg-logo="http://i.imgur.com/pVYoNhX.jpg" ,comiczoo
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/comiczoo
+#EXTINF:-1 test tvg-logo="http://i.imgur.com/pVYoNhX.jpg" ,the-placeholders
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/the-placeholders
+#EXTINF:-1 test tvg-logo="http://i.imgur.com/pVYoNhX.jpg" ,supa-pirate-booty-hunt
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/supa-pirate-booty-hunt
+#EXTINF:-1 test tvg-logo="http://i.imgur.com/pVYoNhX.jpg" ,fun-little-movies
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/fun-little-movies
+#EXTINF:-1 test tvg-logo="http://i.imgur.com/pVYoNhX.jpg" ,eye-for-an-eye
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/eye-for-an-eye
+
+
+#EXTINF:-1,########***************************************FILMON CLASSIC TV********************************* ########
+
+#EXTINF:-1 test tvg-logo="http://i.imgur.com/pVYoNhX.jpg" ,the-dick-van-dyke-show
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/the-dick-van-dyke-show
+#EXTINF:-1 test tvg-logo="http://i.imgur.com/pVYoNhX.jpg" ,the-beverly-hillbillies
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/filmon-binge-the-beverly-hillbillies
+#EXTINF:-1 test tvg-logo="http://i.imgur.com/pVYoNhX.jpg" ,-one-step-beyond
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/filmon-binge-one-step-beyond
+#EXTINF:-1 test tvg-logo="http://i.imgur.com/pVYoNhX.jpg" ,ozzie-harriet
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/filmon-binge-ozzie-harriet
+#EXTINF:-1 test tvg-logo="http://i.imgur.com/pVYoNhX.jpg" ,bonanza
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/filmon-binge-bonanza
+#EXTINF:-1 test tvg-logo="http://i.imgur.com/pVYoNhX.jpg" ,colgate-comedy-hour
+hplugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=ttp://www.filmon.com/channel/the-colgate-comedy-hour
+#EXTINF:-1 test tvg-logo="http://i.imgur.com/pVYoNhX.jpg" ,dragnet-tv
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/dragnet-tv
+#EXTINF:-1 test tvg-logo="http://i.imgur.com/pVYoNhX.jpg" ,the-red-skelton-show-tv
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/the-red-skelton-show-tv
+#EXTINF:-1 test tvg-logo="http://i.imgur.com/pVYoNhX.jpg" ,the-lucy-show
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/the-lucy-show
+
+

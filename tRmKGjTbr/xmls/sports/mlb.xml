@@ -1,0 +1,31 @@
+<item>
+    <title>[B][COLORred]13Clowns[/COLOR] MLB[/B]</title>
+    <thumbnail>https://cdn.bleacherreport.net/images/team_logos/328x328/mlb_rumors.png</thumbnail>
+    <fanart>http://mlb.mlb.com/mlb/images/devices/ballpark/1920x1080/color/2394.jpg</fanart>
+</item>
+<item>
+    <title>[B][COLORyellow]13Clowns[/COLOR] WISHING ALL FATHERS A HAPPY FATHERS DAY[/B]</title>
+    <thumbnail>https://i.pinimg.com/originals/13/40/4d/13404dcc69673133de061de8ab438695.jpg</thumbnail>
+    <fanart>https://images.indianexpress.com/2019/06/fathers-day-2019_4.jpg</fanart>
+</item>
+
+<plugin>
+    <title>[B][COLOR yellow]MLB Best of 2019[/COLOR][/B]</title>
+    <link>plugin://plugin.video.youtube/playlist/PLL-lmlkrmJanSaR0jOf6OrVdihP_2tt1S/</link>
+    <thumbnail>https://i.ytimg.com/vi/uapfDMGByZE/maxresdefault.jpg</thumbnail>
+    <fanart>http://mlb.mlb.com/mlb/images/devices/ballpark/1920x1080/color/2394.jpg</fanart>
+</plugin>
+<plugin>
+    <title>[B][COLOR yellow]Past World Series Games[/COLOR][/B]</title>
+    <link>plugin://plugin.video.youtube/playlist/PLi70flcQkwNu5AF7ZG41bQtVC2a-KYue6/</link>
+    <thumbnail>http://media.bizj.us/view/img/10212931/worldseries-primary-2016*1200xx905-509-0-131.png</thumbnail>
+    <fanart>http://mlb.mlb.com/mlb/images/devices/ballpark/1920x1080/color/2394.jpg</fanart>
+</plugin>
+<!--
+<item>
+    <title></title>
+    <link>https://hlslive-akc-ewr1.media.mlb.com/hdnts=exp=1559259397~acl=/*~id=00u7o0n1dr3dtPYrj356~data=0fde9850-f864-49f7-84ef-36ca78308f21~hmac=68c4c64797645062fa1e3b3ae3ecb23a37b7ae3a16a2625f4656e6a68d1d5143/61be33e78961bab22db04469e1808596/ls01/mlb/2019/05/30/Home_VIDEO_eng_Kansas_City_Royals_Chicag_20190530_1559167815029/5600K/5600_slide_gdfp.m3u8|User-Agent=At Bat/26884 CFNetwork/894 Darwin/17.4.0&Authorization=eyJraWQiOiJlZmM3OGYxYS1lNDBkLTExZTctODBjMS05YTIxNGNmMDkzYWUiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIwMHU3bzBuMWRyM2R0UFlyajM1NiIsIm5iZiI6MTU1OTE3MTI5MSwicGFydG5lck5hbWUiOiJtbGJ0diIsImlzcyI6InVybjpiYW10ZWNoOnNlcnZpY2U6dG9rZW4iLCJjb250ZXh0Ijp7InZlcnNpb24iOiJWMi4wLjAiLCJpZCI6ImExNWMzMzAwLTgyNjYtMTFlOS1iNWVmLTAyNDJhYzExMDAwOCIsInBhcnRuZXIiOnsibmFtZSI6Im1sYnR2In0sInR5cGUiOiJSRUdJU1RFUkVEIiwiaXBfYWRkcmVzcyI6IjE3My4yNDQuMzYuMzAiLCJkZXZpY2UiOnsiaWQiOiJmN2IwY2UwZi1jOWNiLTQyNzQtYjE2NC1iNmQxODlkNDYzYTgiLCJwbGF0Zm9ybSI6ImJyb3dzZXIifSwibG9jYXRpb24iOnsidHlwZSI6IkFOT05ZTU9VU19JUCIsInppcF9jb2RlIjoiIiwiY291bnRyeV9jb2RlIjoiIiwiZG1hIjowLjB9LCJhY2NvdW50Ijp7InR5cGUiOiJ1cm46bWxidHY6YWNjb3VudCIsImlkIjoiMDB1N28wbjFkcjNkdFBZcmozNTYiLCJkYXRhIjp7fX0sInByb2ZpbGVzIjpbXSwiYWN0aXZlX3Byb2ZpbGVfaWQiOiIiLCJnZW5lcmF0ZWRfb24iOiIyMDE5LTA1LTI5VDIzOjA4OjExLjY5NiswMDAwIiwidXBkYXRlZF9vbiI6IjIwMTktMDUtMjlUMjM6MDg6MTEuNjk2KzAwMDAiLCJleHBpcmVzX29uIjoiMjAxOS0wNS0zMFQwMzowODoxMS42OTYrMDAwMCIsIm1lZGlhX3Blcm1pc3Npb25zIjp7ImVudGl0bGVtZW50cyI6WyJNTEJBTEwiXSwicnVsZXMiOnsicGFzc2VkIjpbXX0sImRhdGEiOnt9fSwiYmxhY2tvdXRzIjp7ImVudGl0bGVtZW50cyI6W10sInJ1bGVzIjp7InZpb2xhdGVkIjpbXX0sImRhdGEiOnt9fSwic3Vic2NyaXB0aW9ucyI6W3siZW50aXRsZW1lbnRzIjpbIk1MQkFMTCJdLCJncmFudENvbnRleHRTb3VyY2UiOiJhY2NvdW50X2dyYW50IiwiaWQiOiIiLCJleHBpcmVzX29uIjoiIiwicmVuZXdzX29uIjoiIn1dLCJzdXBwb3J0ZWQiOnRydWV9LCJlbnYiOiJwcm9kIiwiZXhwIjoxNTU5MTg1NjkxLCJpYXQiOjE1NTkxNzEyOTEsImp0aSI6IjMwM2Q4ZjE1LTg2YTQtNGM2Yi04ODE2LTE2NTBhOGE4NmNlMSJ9.8U06tedoJdrq1bFxMIaVoCe6i219PdCzC1Mpi3b7N5g&Cookie=ipid=43548555</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png</thumbnail>
+    <fanart>http://mlb.mlb.com/mlb/images/devices/ballpark/1920x1080/color/2394.jpg</fanart>
+</item>
+-->

@@ -1,0 +1,97 @@
+#EXTM3U
+#EXTINF:-0,[COLOR=FFFFFF00]***********************USNEWSLIVE TV ***********************************************[/COLOR]
+
+#EXTINF:-1,big-ten-network</a>
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://usnewslive.tv/big-ten-network/
+#EXTINF:-1,Lifetime</a>
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://usnewslive.tv/lifetime/
+#EXTINF:-1,sec-network</a>
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://usnewslive.tv/sec-network/
+#EXTINF:-1,Cartoon Network
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://usnewslive.tv/cartoon-network/
+#EXTINF:-1,comedy-central/</a>
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://usnewslive.tv/comedy-central/
+#EXTINF:-1,Comedy Central</a>
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://usnewslive.tv/animal-planet/
+#EXTINF:-1,turner-classic-movies</a>
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://usnewslive.tv/turner-classic-movies/
+#EXTINF:-1,</a>bbc-america
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://usnewslive.tv/bbc-america/
+#EXTINF:-1,syfy/</a>
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://usnewslive.tv/syfy/
+#EXTINF:-1food-network,</a>
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://usnewslive.tv/food-network/
+#EXTINF:-1,starz</a>
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://usnewslive.tv/starz/
+#EXTINF:-1,tlc</a>
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://usnewslive.tv/tlc/
+#EXTINF:-1,one-america-news-network</a>
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://usnewslive.tv/one-america-news-network/
+#EXTINF:-1,travel-channel</a>
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://usnewslive.tv/travel-channel/
+#EXTINF:-1,</a>bravo
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://usnewslive.tv/bravo/
+#EXTINF:-1,tv-land</a>
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://usnewslive.tv/tv-land/
+#EXTINF:-1,Tnt</a>
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://usnewslive.tv/tnt/
+#EXTINF:-1,Tbs</a>
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://usnewslive.tv/tbs/
+#EXTINF:-1,freeform</a>
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://usnewslive.tv/freeform/
+#EXTINF:-1,nick</a>
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://usnewslive.tv/nickelodeon/
+#EXTINF:-1,Nickelodeon</a>
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://usnewslive.tv/espn2/
+#EXTINF:-1,discovery id</a>
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://usnewslive.tv/investigation-discovery/
+#EXTINF:-1,hallmark</a>
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://usnewslive.tv/hallmark-movies-mysteries/
+#EXTINF:-1,disney</a>
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://usnewslive.tv/disney-channel/
+#EXTINF:-1,Disney Channel</a>
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://usnewslive.tv/fx-channel-live-stream/
+#EXTINF:-1,usa</a>
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://usnewslive.tv/usa-network-live-stream/
+#EXTINF:-1,cw</a>
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://usnewslive.tv/the-cw-live-stream/
+#EXTINF:-1,amc</a>
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://usnewslive.tv/amc-live-stream/
+#EXTINF:-1,natgeo</a>
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://usnewslive.tv/national-geographic-live-stream/
+#EXTINF:-1,a&e</a>
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://usnewslive.tv/ae-live-stream/
+#EXTINF:-1,hallmark</a>
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://usnewslive.tv/hallmark-channel-live-stream/
+#EXTINF:-1,pbs</a>
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://usnewslive.tv/pbs-live-stream/
+#EXTINF:-1,hgtv</a>
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://usnewslive.tv/hgtv-live-stream/
+#EXTINF:-1,espn</a>
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://usnewslive.tv/espn-channel-live-stream/
+#EXTINF:-1,history</a>
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://usnewslive.tv/history-channel-live-stream/
+#EXTINF:-1,discovery-channel-live-stream</a>
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://usnewslive.tv/discovery-channel-live-stream/
+#EXTINF:-1,watch-fox-channel-live-</a>
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://usnewslive.tv/watch-fox-channel-live-stream/
+#EXTINF:-1,watch-nbc-live-stream</a>
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://guide66.info/watch-nbc-live-stream/
+#EXTINF:-1,watch-cbs-live-stream</a>
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://guide66.info/watch-cbs-live-stream/
+#EXTINF:-1,abc-live-stream</a>
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://guide66.info//watch-abc-live-stream/
+#EXTINF:-1,ABC Live Stream</a>
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://guide66.info/watch-weather-channel-live-stream/
+#EXTINF:-1,foxbusinesslive</a>
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://guide66.info/foxbusinesslive/
+#EXTINF:-1,cnbclive</a>
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://guide66.info/cnbclive/
+#EXTINF:-1,MSNBC Live
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://guide66.info/msnbclive/
+#EXTINF:-1,Fox News Live</a>
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://guide66.info/foxnewslive/
+#EXTINF:-1,CNN Live Stream
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://usnewslive.tv/cnnlive/
+#EXTINF:-1,golf-channel</a>
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://usnewslive.tv/golf-channel/

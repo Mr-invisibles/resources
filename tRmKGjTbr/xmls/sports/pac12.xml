@@ -1,0 +1,38 @@
+<item>
+	<title>[B][COLORred]13Clowns[/COLOR] PAC 12[/B]</title>
+</item>
+<item>
+	<title>PAC-12 National</title>
+	<link>https://p12n.pac-12.com/v1/manifest/b6988789cc420a523cc8393d9c7e629c76fece84/p12n-2019-01/3984466c-0935-417c-a6b9-f406e8a7225c/0.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>PAC-12 Arizona</title>
+	<link>https://p12a.pac-12.com/v1/manifest/b6988789cc420a523cc8393d9c7e629c76fece84/p12a-2019-01/4fccac6a-1414-4ad2-b6eb-9349e149ae41/0.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>PAC-12 Los Angeles</title>
+	<link>https://p12l.pac-12.com/v1/manifest/b6988789cc420a523cc8393d9c7e629c76fece84/p12l-2019-01/b74f9cc9-da54-4749-8903-0b87dc553f6f/0.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>PAC-12 Mountain</title>
+	<link>https://p12m.pac-12.com/v1/manifest/b6988789cc420a523cc8393d9c7e629c76fece84/p12m-2019-01/3caf8a0f-17c7-425a-a816-4e34c8b5a32b/0.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>PAC-12 Oregon</title>
+	<link>https://p12o.pac-12.com/v1/manifest/b6988789cc420a523cc8393d9c7e629c76fece84/p12o-2019-01/efb449e0-571d-4f6b-a569-ebd18a8cf1f8/0.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>PAC-12 Washington</title>
+	<link>https://p12w.pac-12.com/v1/manifest/b6988789cc420a523cc8393d9c7e629c76fece84/p12w-2019-01/94ece17b-ed12-4603-a325-a79041ae2f16/0.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>PAC-12 Bay Area</title>
+	<link>https://p12b.pac-12.com/v1/manifest/b6988789cc420a523cc8393d9c7e629c76fece84/p12b-2019-01/85c93491-f168-4b42-9c23-3f5b88ce01f9/0.m3u8</link>
+	<thumbnail></thumbnail>
+</item>
