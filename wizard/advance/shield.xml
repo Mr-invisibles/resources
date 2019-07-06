@@ -1,0 +1,22 @@
+<advancedsettings>
+        <fanartres>1080</fanartres>
+        <imageres>1080</imageres>
+        <splash>false</splash>
+    <video>
+        <playcountminimumpercent>90</playcountminimumpercent>
+        <ignoresecondsatstart>180</ignoresecondsatstart>
+        <ignorepercentatend>5</ignorepercentatend>
+    </video>
+    <cache>
+        <buffermode>1</buffermode>
+        <memorysize>278921216</memorysize>
+        <readfactor>20</readfactor>
+    </cache>
+    <network>
+        <buffermode>2</buffermode>
+        <cachemembuffersize>209715200</cachemembuffersize>
+        <readbufferfactor>5</readbufferfactor>
+        <curlclienttimeout>10</curlclienttimeout>
+        <curllowspeedtime>10</curllowspeedtime>
+    </network>
+</advancedsettings>
