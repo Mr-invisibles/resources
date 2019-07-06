@@ -1,6 +1,5 @@
 <plugin>
 	<title>Enter the Kids Zone</title>
-	<link>plugin://script.13ckids</link>
+	<link>plugin://plugin.video.ghost</link>
 	<thumbnail />
 </plugin>
-

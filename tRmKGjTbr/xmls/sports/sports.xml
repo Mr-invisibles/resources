@@ -2,90 +2,90 @@
     <title>[B]******** All Things Sports ********[/B]</title>
 </item>
 <item>
-    <title>[B][COLORyellow]13Clowns[/COLOR] WISHING ALL FATHERS A HAPPY FATHERS DAY[/B]</title>
+    <title>[B][COLORyellow]Mr-invisibles[/COLOR] WISHING ALL FATHERS A HAPPY FATHERS DAY[/B]</title>
     <thumbnail>https://i.pinimg.com/originals/13/40/4d/13404dcc69673133de061de8ab438695.jpg</thumbnail>
     <fanart>https://images.indianexpress.com/2019/06/fathers-day-2019_4.jpg</fanart>
 </item>
 
 <dir>
     <title>>>>Live PPV Events<<<<</title>
-            <link>https://raw.githubusercontent.com/the13clowns/resources/master/tRmKGjTbr/xmls/sports/ppv.xml</link>
+            <link>https://raw.githubusercontent.com/Mr-invisibles/resources/master/tRmKGjTbr/xmls/sports/ppv.xml</link>
         </dir>
         <dir>
             <title>>>>REPLAYS<<<<</title>
-                    <link>https://raw.githubusercontent.com/the13clowns/resources/master/tRmKGjTbr/xmls/sports/replays.xml</link>
+                    <link>https://raw.githubusercontent.com/Mr-invisibles/resources/master/tRmKGjTbr/xmls/sports/replays.xml</link>
                 </dir>
                 <item>
                     <title>====Leagues====</title>
                 </item>
 <dir>
     <title>****NCAA****</title>
-    <link>https://raw.githubusercontent.com/the13clowns/resources/master/tRmKGjTbr/xmls/sports/ncaa.xml</link>
+    <link>https://raw.githubusercontent.com/Mr-invisibles/resources/master/tRmKGjTbr/xmls/sports/ncaa.xml</link>
     <thumbnail>http://sbhsathletics.org/wp-content/uploads/2015/06/ncaa_official_logo.png</thumbnail>
 </dir>
 <dir>
     <title>****NFL****</title>
-    <link>https://raw.githubusercontent.com/the13clowns/resources/master/tRmKGjTbr/xmls/sports/nfl.xml</link>
+    <link>https://raw.githubusercontent.com/Mr-invisibles/resources/master/tRmKGjTbr/xmls/sports/nfl.xml</link>
     <thumbnail>https://pmcvariety.files.wordpress.com/2016/02/nfl-logo.png?w=670</thumbnail>
     <fanart>https://cdn7.dissolve.com/p/D1028_97_095/D1028_97_095_1200.jpg</fanart>
 </dir>
 <dir>
     <title>****NBA****</title>
-    <link>https://raw.githubusercontent.com/the13clowns/resources/master/tRmKGjTbr/xmls/sports/nba.xml</link>
+    <link>https://raw.githubusercontent.com/Mr-invisibles/resources/master/tRmKGjTbr/xmls/sports/nba.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png</thumbnail>
     <fanart>https://ae01.alicdn.com/kf/HTB1qIMKexGYBuNjy0Fnq6x5lpXaa/Bright-Indoor-basketball-court-sport-arena-light-backdrop-Vinyl-cloth-High-quality-Computer-print-wall-Background.jpg</fanart>
 </dir>
 <dir>
     <title>****MLB****</title>
-    <link>https://raw.githubusercontent.com/the13clowns/resources/master/tRmKGjTbr/xmls/sports/mlb.xml</link>
+    <link>https://raw.githubusercontent.com/Mr-invisibles/resources/master/tRmKGjTbr/xmls/sports/mlb.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png</thumbnail>
     <fanart>http://mlb.mlb.com/mlb/images/devices/ballpark/1920x1080/color/2394.jpg</fanart>
 </dir>
 <dir>
     <title>****NHL****</title>
-    <link>https://raw.githubusercontent.com/the13clowns/resources/master/tRmKGjTbr/xmls/sports/nhl.xml</link>
+    <link>https://raw.githubusercontent.com/Mr-invisibles/resources/master/tRmKGjTbr/xmls/sports/nhl.xml</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/05_NHL_Shield.svg/1200px-05_NHL_Shield.svg.png</thumbnail>
     <fanart>https://boyslifeorg.files.wordpress.com/2015/12/hockey-background.jpg?w=1200</fanart>
 </dir>
 <dir>
     <title>****UFC/MMA****</title>
-    <link>https://raw.githubusercontent.com/the13clowns/resources/master/tRmKGjTbr/xmls/sports/ufc.xml</link>
+    <link>https://raw.githubusercontent.com/Mr-invisibles/resources/master/tRmKGjTbr/xmls/sports/ufc.xml</link>
     <thumbnail>https://cdn.vox-cdn.com/thumbor/f85VN6DgJtjUj-ffJB2lU7HTqC4=/0x55:730x542/1200x800/filters:focal(0x55:730x542)/cdn.vox-cdn.com/uploads/chorus_image/image/46702564/RebrandingTheUFC-0dc50.0.0.jpg</thumbnail>
     <fanart>https://1000logos.net/wp-content/uploads/2017/06/UFC-Logo.jpg</fanart>
 </dir>
 <dir>
     <title>****WWE****</title>
-    <link>https://raw.githubusercontent.com/the13clowns/resources/master/tRmKGjTbr/xmls/sports/wwe.xml</link>
+    <link>https://raw.githubusercontent.com/Mr-invisibles/resources/master/tRmKGjTbr/xmls/sports/wwe.xml</link>
     <thumbnail>https://www.multichannel.com/.image/t_share/MTU0MDY1MDUyNjU4NjM5OTU0/wwe-logopng.png</thumbnail>
     <fanart>https://i.ytimg.com/vi/tRY8AKSbg0Y/maxresdefault.jpg</fanart>
 </dir>
 <dir>
     <title>****FIFA****</title>
-    <link>https://raw.githubusercontent.com/the13clowns/resources/master/tRmKGjTbr/xmls/sports/fifa.xml</link>
+    <link>https://raw.githubusercontent.com/Mr-invisibles/resources/master/tRmKGjTbr/xmls/sports/fifa.xml</link>
     <thumbnail>https://daily.jstor.org/wp-content/uploads/2015/06/FIFA_Logo_1050x700.jpg</thumbnail>
     <fanart>https://daily.jstor.org/wp-content/uploads/2015/06/FIFA_Logo_1050x700.jpg</fanart>
 </dir>
 <dir>
     <title>****MOTOGP****</title>
-    <link>https://raw.githubusercontent.com/the13clowns/resources/master/tRmKGjTbr/xmls/sports/motogp.xml</link>
+    <link>https://raw.githubusercontent.com/Mr-invisibles/resources/master/tRmKGjTbr/xmls/sports/motogp.xml</link>
     <thumbnail>https://i.pinimg.com/originals/1a/da/44/1ada442c5d5e97a72c0ebdf0243fdeea.jpg</thumbnail>
     <fanart>https://wallpapercave.com/wp/wp3537247.jpg</fanart>
 </dir>
 <dir>
     <title>****RUGBY****</title>
-    <link>https://raw.githubusercontent.com/the13clowns/resources/master/tRmKGjTbr/xmls/sports/rugby.xml</link>
+    <link>https://raw.githubusercontent.com/Mr-invisibles/resources/master/tRmKGjTbr/xmls/sports/rugby.xml</link>
     <thumbnail>https://diylogodesigns.com/wp-content/uploads/2016/02/Australian-Rugby-League-Team-Logo-design.png</thumbnail>
     <fanart>https://i.pinimg.com/originals/34/5d/c9/345dc909d31af7485e9630ce9336b972.jpg</fanart>
 </dir>
 <dir>
     <title>****COPA****</title>
-    <link>https://raw.githubusercontent.com/the13clowns/resources/master/tRmKGjTbr/xmls/sports/copa.xml</link>
+    <link>https://raw.githubusercontent.com/Mr-invisibles/resources/master/tRmKGjTbr/xmls/sports/copa.xml</link>
     <thumbnail>https://psplsoccer.demosphere-secure.com/_files/events-info/wa-copa-cup-2019/Copa%20Cup.png</thumbnail>
     <fanart>http://as01.epimg.net/futbol/imagenes/2017/05/18/uefa/1495075604_388074_1495075972_noticia_normal.jpg</fanart>
 </dir>
 <dir>
     <title>****BOXING****</title>
-    <link>https://raw.githubusercontent.com/the13clowns/resources/master/tRmKGjTbr/xmls/sports/boxing.xml</link>
+    <link>https://raw.githubusercontent.com/Mr-invisibles/resources/master/tRmKGjTbr/xmls/sports/boxing.xml</link>
     <thumbnail>https://hayabusa-us.imgix.net/products/PunisherGlove_Group1.png?fm=pjpg&q=50&w=2000</thumbnail>
     <fanart>http://www.todayifoundout.com/wp-content/uploads/2016/04/boxing-ring.png</fanart>
 </dir>
@@ -94,7 +94,7 @@
 </item>
 <dir>
     <title>Pac-12 Networks</title>
-    <link>https://raw.githubusercontent.com/the13clowns/resources/master/tRmKGjTbr/xmls/sports/pac12.xml</link>
+    <link>https://raw.githubusercontent.com/Mr-invisibles/resources/master/tRmKGjTbr/xmls/sports/pac12.xml</link>
     <thumbnail>https://static.pac-12.com/images/logos/pac-12-network-logo.png</thumbnail>
 </dir>
 <item>
@@ -135,7 +135,7 @@
 </item>
 <dir>
     <title>NBC Sport Networks</title>
-    <link>https://raw.githubusercontent.com/the13clowns/resources/master/tRmKGjTbr/xmls/sports/nbc.xml</link>
+    <link>https://raw.githubusercontent.com/Mr-invisibles/resources/master/tRmKGjTbr/xmls/sports/nbc.xml</link>
     <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/04/nbc-sports-logo-600x450.png</thumbnail>
 </dir>
 <item>
@@ -176,4 +176,3 @@
     <thumbnail></thumbnail>
     <fanart></fanart>
 </item>
-
