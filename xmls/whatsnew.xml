@@ -1,9 +1,10 @@
 ﻿======[B][COLOR green]Status: SUPPORTED[/COLOR][/B]-========
 
 ======-[B][COLOR yellow]7.7.2019[/COLOR][/B]-====== 
+[B][COLOR yellow]- [/COLOR][/B][COLOR cyan]Fixed Trakt Api.[/COLOR]
 [B][COLOR yellow]- [/COLOR][/B][COLOR cyan]Added multi line options for sources in settings.[/COLOR]
-[B][COLOR yellow]- [/COLOR][/B][COLOR cyan]Auto subtitle "eng" but can be changed under "My addons" "service" click on "subloader"
-and setting and disable it or chose what Langue you want to use,[/COLOR]
+[B][COLOR yellow]- [/COLOR][/B][COLOR cyan]Auto subtitle "eng" but can be changed under "My addons" "service" click on 
+"subloader"and setting and disable it or chose what Langue you want to use,[/COLOR]
 [B][COLOR yellow]- [/COLOR][/B][COLOR cyan]Scrapers updated,[/COLOR] 
 [B][COLOR yellow]- [/COLOR][/B][COLOR cyan]added sports,[/COLOR] 
 [B][COLOR yellow]- [/COLOR][/B][COLOR cyan]Remove not working stuff.[/COLOR]
