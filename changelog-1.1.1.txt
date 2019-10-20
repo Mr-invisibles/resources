@@ -1,9 +1,0 @@
-[B]****************************************************
-Practically all scrapers and fixes come from others.
-Thanks to them for their efforts.
-****************************************************[/B]
-
-[COLOR dodgerblue][B]Version 1.1.1[/B][/COLOR]
-- Small module code changes only.
-- Added setting to import scraper modules. Any modules from exodus based video add-ons installed on your system can be added (e.g. Exodus Redux, 13 Clowns etc). Need plugin.video.Powerv2 Version V.0.1.1 to work correct
-- Added setting to remove an imported scraper module.
